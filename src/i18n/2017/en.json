@@ -1,0 +1,415 @@
+{
+    "header_nav": {
+        "awards": "awards",
+        "judges": "judges",
+        "winners": "winners",
+        "sponsors": "sponsors",
+        "highlights": "highlights",
+        "past_events": "past events",
+        "lang_opt": "ZH"
+    },
+    "social": {
+        "fb": "Share to Facebook",
+        "linkedin": "Share to Linkdedin",
+        "ln": "Share to Line",
+        "whatsApp": "Share to WhatsApp",
+        "wb": "Share to Weibo"
+    },
+    "home": {
+        "title1": "FinTech is the driving engine for collaboration and innovation",
+        "title2": "view winners",
+        "title3": "",
+        "p1": "FinTech (financial technology) has presented leading innovations, so much so that it has birthed a global economic industry currently operating more efficient services than traditional financial providers. ",
+        "p2": "The mission of the FinTech Awards 2017 is to honor excellence and recognize the creativity, hard work and success of FinTech companies, technologies and products. ",
+        "p3":"FinTech Awards 2017 winners receive well-deserved recognition and third-party validation from an independent organization. ",
+        "p4":"Benefits of The Award",
+        "p5":"Earning the coveted FinTech Awards 2017 provides compelling benefits",
+        "p6":"FinTech Awards 2017 logo available to include on all marketing collaterals (i.e. Press Release, Social Media, Product Packaging, Advertising Materials and etc.)",
+        "p7":"Promotion and publicity opportunities in FinTech Awards 2017 Presentation ceremony and the all related pre and post event promotion",
+        "event1": "Event Details",
+        "event2": "Award Presentation Ceremony ",
+        "event3": "29 Jan 2018",
+        "event4": "Island Shangri-La, Hong Kong",
+        "event5": "Pacific Place, Supreme Court Road,",
+        "event6": "Central, Hong Kong",
+        "notice1": "Important Dates",
+        "notice2": "16 Oct - 8 Dec 2017",
+        "notice3": "Application",
+        "notice4": "5 Jan 2018",
+        "notice5": "Awards Results Announcement",
+        "notice6": "29 Jan 2018",
+        "notice7": "Award Presentation Ceremony"
+    },
+    "sponsors": {
+        "h1": "Sponsors",
+        "p1": "The FinTech Awards 2017 provide our sponsors with unique brand building opportunities among a wide network of leading businesses and individuals from across the financial technology sector.",
+        "p2": "As a sponsor, your company will be associated with excellence and innovation, boosting its profile within the industry and positioning your brand as a thought leader in the space.",
+        "p3": "The sponsor will present the trophy to winners.  It is a great honor for the winners to receive the award from the prestigious industry leader.",
+        "p4": "To be our sponsor of FinTech Awards 2017, our extensive marketing and public relations campaign assists us to generate interest in the Awards whilst promoting our sponsors as the supportive industry players. The public and industry support of the Awards will provide various positive opportunities for sponsors to be aligned with a wide range of commercial activities.",
+        "p5": "Press",
+        "p6": "Printed material and direct mail",
+        "p7": "Social media",
+        "p8": "Advertisements on outdoor and etc.",
+        "p9": "sponsors will find significant opportunities for exposure within:",
+        "p10": "Leading corporations and businesses",
+        "p11": "Industry players and associations",
+        "p12": "General public, through significant mass media exposure",
+        "parner": "Knowledge Partner",
+        "sponsors": "Sponsors"
+    },
+    "awards_title": "awards",
+    "award_array": {
+        "finTechofyear": "FinTech of the Year 2017",
+        "marketing": "FinTech Marketing Campaign of the Year 2017",
+        "startup": "FinTech of the Year 2017 in Start-Up",
+        "consumerpayments": "FinTech Awards 2017 in Payment",
+        "retail": "FinTech Awards 2017 in Banking",
+        "tradingsystems": "FinTech Awards 2017 in Trading Systems",
+        "cybersecurity": "FinTech Awards 2017 in Cybersecurity ",
+        "insurance": "FinTech Awards 2017 in Insurance",
+        "lending": "FinTech Awards 2017 in Lending",
+        "wealth": "FinTech Awards 2017 in Wealth Investment and Management",
+        "fxpayment": "FinTech Awards 2017 in FX / Payment Solutions",
+        "retailsupply": "FinTech Awards 2017 in Retail / Supply Chain Management",
+        "hospitality": "FinTech Awards 2017 in Tourism and Hospitality",
+        "blockchain": "FinTech Awards 2017 in Blockchain Solutions",
+        "university": "FinTech Awards 2017 in Universities (Gold Award, Silver Award, Bronze Award)"
+    },
+    "award_descriptions": {
+        "finTechofyear": "This category is not open to public nominations. The winner of this special award will be selected by the judging panel from the list of finalists in all categories. Judges are looking for an outstanding innovation, contributing to the advancement of technology within the sector.",
+        "marketing": "This award celebrates the very best creative marketing and PR talent in promoting FinTech innovation. Judges will look for campaigns that: pushed the boundaries of how the sector was perceived; educated audiences about new technologies and services; succeeded in establishing or strengthening brand identity and/or winning new customers.",
+        "startup": "This award specifically recognize outstanding Hong Kong based FinTech start-ups and influencers. FinTech of the Year 2017 in Start-up especially for those are either below two years of incorporations.",
+        "consumerpayments": "In this category judges are looking for a product or service that disrupts the payments sector by introducing innovative, state-of-the-art solution that benefits both users and service providers. This category is open to ecommerce, commerce, contactless, mPoS and mobile wallet providers.",
+        "retail": "In the highly competitive corporate banking sector, reliable, efficient, and scalable technology is vital component of a corporation's success. This award recognizes innovation that improves efficiency across areas such as lending trade finance, risk and liquidity management.",
+        "tradingsystems": "The winner of this category will be the best-of-breed system which offers highly relevant functionality, integration and compatibility. It will contribute to rapid and more precise trading, optimal performance and increased profitability. This category is open to both, buy-side and sell-side system providers.",
+        "cybersecurity": "This award will recognize the organization or product that has devised the most innovative and effective method of preventing cybercrime in protecting an organization's or customer's assets. The winning initiative will demonstrate the providers' understanding of the diversity of fraud and/or cybercrime risk. The category is open to internal or external anti-fraud/security functions.",
+        "insurance": "Efficient insurance systems help their organizations run more effectively. This award recognizes cutting-edge insurance software solutions that bring valuable innovation to increase efficiency when processing compensation payments, managing existing infrastructure or monitoring loans.",
+        "lending": "This award recognizes a product or service which offers new or significantly improved service that implements technology to bring benefits to both lenders and borrowers. Judges are looking for innovative credit modelling, use of data elements and improved user experience.",
+        "wealth": "This category's winner will be a wealth, investment or asset management system which, in the last 12 months, provided innovative ways to improve transaction tracking, management and reduction of risk, or increased analytics and profit potential.",
+        "fxpayment": "The winning technology will be an innovative solution that benefits the end user, adopting a clear and user-friendly process with complete transparency of the transaction. The solution will address and implement solid security processes while demonstrating understanding of, and compliance with, laws and regulations. This category is open to both B2B or B2C products/services.",
+        "retailsupply": "This award will recognize the organisation that has devised most innovative retail and supply chain management.",
+        "hospitality": "This award will recognize the achievement of the organization on FinTech in Tourism and Hospitality.",
+        "blockchain": "This award will specifically recognize companies with the most impressive technology, who are paving the future in financial services, capital markets, IOT, cybersecurity and collaboration applications.",
+        "university": "This award aims to enhance tertiary students' creativity and innovation, and recognize young talents for their efforts in new technology and innovation."
+    },
+    "judges_array": {
+        "title": "judges",
+        "description": "The Judging Panel consists of professionals of the FinTech and ICT industry, with members come from relevant industry and professional associations, companies, educational institutes, and government bodies. Confirmed judges are as below:",
+        "judges": [
+            {
+                "name": "Mr. Emil Chan",
+                "title": "Chairman\nFinTech Committee,\nSmart City Consortium",
+                "img": "Emil@2x.png"
+            },
+            {
+                "name": "Mr. Francis Fong",
+                "title": "Founding Chairman\nHong Kong Association of Interactive Marketing (HKAIM)",
+                "img": "Francis@2x.jpg"
+            },
+            {
+                "name": "Mr. Sam Hui",
+                "title": "Chairman\nInformation Technology Industrial Committee\nThe Chinese Manufacturers' Association of Hong Kong",
+                "img": "Sam@2x.png"
+            },
+            {
+                "name": "Mr. Simon Lee",
+                "title": "Co-director\nInternational Business and Chinese Enterprise (IBCE) program of CUHK Business School",
+                "img": "Simon@2x.png"
+            },
+            {
+                "name": "Hon. Charles Peter Mok, JP",
+                "title": "Functional Constituency Information Technology",
+                "img": "Charles@2x.png"
+            },
+            {
+                "name": "Dr. Winnie Tang, JP",
+                "title": "Honorary Professor\nDepartment of Computer Science\nHong Kong University",
+                "img": "WinnieTang@2x.png"
+            }
+        ]
+    },
+    "winners_title": "winners",
+    "winners_award_array": {
+        "finTechofyear": "FinTech of the Year 2017",
+        "marketing": "FinTech Marketing Campaign of the Year 2017",
+        "startup": "FinTech of the Year 2017 in Start-up",
+        "retail": "FinTech Awards 2017 in Banking",
+        "insurance": "FinTech Awards 2017 in Insurance",
+        "cybersecurity": "FinTech Awards 2017 in Cybersecurity",
+        "lending": "FinTech Awards 2017 in Lending",
+        "consumerpayments": "FinTech Awards 2017 in Payment",
+        "tradingsystems": "FinTech Awards 2017 in Trading Systems",
+        "wealth": "FinTech Awards 2017 in Wealth Investment and Management",
+        "fxpayment": "FinTech Awards 2017 in Money Transfer / FX",
+        "university": "FinTech Awards 2017 in Universities"
+    },
+    "winners": {
+
+            "finTechofyear": [
+              {
+                "name": "Mastercard",
+                "award": ""
+              }
+            ],
+            "marketing": [
+              {
+                "name": "Mastercard",
+                "award": ""
+              }
+            ],
+            "startup": [
+              {
+                "name": "Entersoft Security",
+                "award": ""
+              }
+            ],
+            "retail": [
+              {
+                "name": "Bank of China (Hong Kong) Limited",
+                "award": "Outstanding Intelligent Personal Banking Services"
+              },
+              {
+                "name": "China CITIC Bank International",
+                "award": "Outstanding Mobile Payment Integration with Social Media Platform"
+              },
+              {
+                "name": "DBS Bank (Hong Kong) Limited",
+                "award": "Outstanding Digital Wealth Management Platform; Outstanding Home Purchasing Ecosystem"
+              },
+              {
+                "name": "Hang Seng Bank Limited",
+                "award": "Outstanding Virtual Assistant Services"
+              },
+              {
+                "name": "Standard Chartered Bank (Hong Kong) Limited",
+                "award": "Outstanding Mobile Banking Touch Login Services"
+              },
+              {
+                "name": "The Bank of East Asia, Limited",
+                "award": "Outstanding Intelligent Digital Branch"
+              },
+              {
+                "name": "The Hongkong and Shanghai Banking Corporation Limited",
+                "award": "Outstanding SME Banking Services"
+              }
+            ],
+            "insurance": [
+              {
+                "name": "AXA Hong Kong",
+                "award": "Outstanding Integrated Insurance Services Platform"
+              },
+              {
+                "name": "FWD Life Insurance Company (Bermuda) Limited",
+                "award": "Outstanding Consumer Online Insurance Services; Outstanding Social Media Application"
+              },
+              {
+                "name": "FWD General Insurance Company Limited",
+                "award": "Outstanding Driving Evaluation App"
+              },
+              {
+                "name": "10Life",
+                "award": "Outstanding Insurance Product Decoder"
+              },
+              {
+                "name": "Galileo Platforms Limited",
+                "award": "Outstanding Blockchain Platform in Insurance"
+              }
+            ],
+            "cybersecurity": [
+              {
+                "name": "Blockchain Solutions Limited",
+                "award": "Outstanding Blockchain Technology Development"
+              },
+              {
+                "name": "First Shanghai Securities Limited",
+                "award": "Outstanding Online Trading Securities System"
+              },
+              {
+                "name": "HKT",
+                "award": "Outstanding Corporate Network Security Solutions"
+              },
+              {
+                "name": "Entersoft Security",
+                "award": "Outstanding Application Security Solutions"
+              }
+            ],
+            "lending": [
+              {
+                "name": "Qupital Limited",
+                "award": "Outstanding SME Financial Platform"
+              },
+              {
+                "name": "Velotrade Management Limited",
+                "award": "Outstanding Online Invoice Trading Platform"
+              }
+            ],
+            "consumerpayments": [
+              {
+                "name": "EFT Solutions Limited",
+                "award": "Outstanding Mobile Payment Solutions"
+              },
+              {
+                "name": "Geoswift",
+                "award": "Outstanding Global Cross-Border Payment Solutions"
+              },
+              {
+                "name": "Mastercard",
+                "award": "Outstanding Digital Payment"
+              },
+              {
+                "name": "TNG FinTech Group",
+                "award": "Outstanding Digital Wallet"
+              }
+            ],
+            "tradingsystems": [
+              {
+                "name": "China Goldjoy Securities Limited",
+                "award": "Outstanding Securities Trading Platform"
+              },
+              {
+                "name": "EBSHK Direct",
+                "award": "Outstanding Online Securities Investment Management Platform"
+              },
+              {
+                "name": "Fosun Hani Securities Limited",
+                "award": "Outstanding Securities Financing Solutions"
+              },
+              {
+                "name": "Freeman Securities Limited",
+                "award": "Outstanding FinTech Securities Firm"
+              },
+              {
+                "name": "Fulbright Securities Limited",
+                "award": "Outstanding Online Securities Trading Solutions"
+              }
+            ],
+            "wealth": [
+              {
+                "name": "Principal Investment & Retirement Services Ltd",
+                "award": "Outstanding MPF Mobile App"
+              },
+              {
+                "name": "Cryptomover Limited",
+                "award": "Outstanding Digital Currency Platform"
+              },
+              {
+                "name": "gini",
+                "award": "Outstanding Intelligent Financial Management Mobile Application"
+              },
+              {
+                "name": "HedgeSPA Limited",
+                "award": "Outstanding Cloud-Based Analytics Platform"
+              },
+              {
+                "name": "HedgeVista Limited",
+                "award": "Outstanding Web Based Hedge Funds Management Platform"
+              },
+              {
+                "name": "Kristal.AI",
+                "award": "Outstanding AI-powered & Web-based Asset Management Platform"
+              },
+              {
+                "name": "Privé Managers",
+                "award": "Outstanding External Asset Manager Solutions"
+              }
+            ],
+            "fxpayment": [
+              {
+                "name": "InstaReM Limited",
+                "award": "Outstanding Digital Cross Border Money Transfer Service"
+              },
+              {
+                "name": "Midpoint",
+                "award": "Outstanding Money Transfer Platform"
+              }
+            ],
+            "university": [
+              {
+                "name": "Nucleo - Hu Yao-Chieh & Lee Ting-Ting\nThe Hong Kong University of Science and Technology",
+                "award": "Gold"
+              },
+              {
+                "name": "Theatre Entertainment\nThe University of Hong Kong",
+                "award": "Silver"
+              },
+              {
+                "name": "Lau Sheung Chi\nThe University of Hong Kong",
+                "award": "Bronze"
+              }
+            ]
+
+    },
+    "exposures_array": {
+        "title": "supplement (PDF)"
+    },
+    "highlights_array": {
+        "title": "highlights",
+        "tab1": "photo",
+        "tab2": "video",
+        "tab3":"Interview",
+        "highlights_video": [
+            {
+                "id": "AdDCGF2weas",
+                "title": "Event Highlights"
+            },
+            {
+                "id": "RWZRyHPeNSc",
+                "title": "Message from Guest: Professor K.C. Chan, GBS, SBS, JP"
+            },
+            {
+                "id": "WHYNwQDfc3g",
+                "title": "Message from Co-organiser: Cyberport"
+            },
+            {
+                "id": "8-EtdJ1bOYA",
+                "title": "Message from Sponsor: Deloitte China"
+            },
+            {
+                "id": "hGOnk7sUCkE",
+                "title": "Message from Sponsor: KPMG"
+            },
+            {
+                "id": "W6AwLyqtF6E",
+                "title": "Message from Sponsor: PwC"
+            },
+            {
+                "id": "B5T6UU876WQ",
+                "title": "Message from Guest: Mr. Shek Kang Chuen"
+            },
+            {
+                "id": "TEmmyFo5BZM",
+                "title": "Interview: DBS"
+            },
+            {
+                "id": "wOIkg-zVfzo",
+                "title": "Interview: The Bank of East Asia"
+            },
+            {
+                "id": "JVE7w89fcmM",
+                "title": "Interview: WiseSpot Company Limited"
+            },
+            {
+                "id": "jqToomoy44g",
+                "title": "Interview: CMB Wing Lung Bank Limited"
+            },
+            {
+                "id": "2Y72miAiodo",
+                "title": "Interview: CASH Algo Finance Group Limited"
+            }
+        ]
+    },
+    "footer": {
+        "copyright": "Copyright © 2017 ET Net Limited. All Rights Reserved.",
+        "contact": "Contact Us",
+        "co_organizers": "Co-organiser and FinTech Partner",
+        "co_organizer": "Co-organiser",
+        "knowledge_parner": "Knowledge Parner",
+        "parner": "Partner",
+        "sponsor": "Sponsor",
+        "supportOrganization": "Supporting Organisations"
+    },
+    "contact": {
+        "title": "contact",
+        "enquiries": "Event & Awards Enquiries"
+    }
+}

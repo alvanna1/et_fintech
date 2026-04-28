@@ -1,0 +1,219 @@
+/* Scss Document */
+html body * {
+  font-size: 20px;
+  font-family: "FPTLight", Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+html body h2 {
+  font-family: "FPTLight", Helvetica, Arial, "Microsoft JhengHei", sans-serif;
+  font-weight: 700; }
+html body p {
+  line-height: 1.7em; }
+html body ul.line li:before {
+  content: '';
+  display: block;
+  width: 10px;
+  height: 2px;
+  position: absolute;
+  top: 9px;
+  left: -26px; }
+html body.chinese {
+  font-size: 18px; }
+
+.navbar .container-fluid .navbar-header .menuitemContainer .menuitem ul li.english a {
+  font-size: 1em; }
+.navbar .container-fluid .navbar-header .menuitemContainer .menuitem ul li a {
+  display: block;
+  font-size: 1em;
+  text-align: center;
+  font-family: "FPTBold", Helvetica, Arial, "Microsoft JhengHei", sans-serif;
+  color: #FFFFFF; }
+.navbar .container-fluid .navbar-header .menuitemContainer .lang {
+  padding: 0 15px; }
+  .navbar .container-fluid .navbar-header .menuitemContainer .lang a span {
+    position: relative;
+    font-size: 1em;
+    top: 4px; }
+    .navbar .container-fluid .navbar-header .menuitemContainer .lang a span:before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: -2px;
+      left: -31px;
+      background: url(../images/icon.png) no-repeat;
+      width: 26px;
+      height: 26px;
+      background-position: -243px 0; }
+
+header .jumbotron .container.leadin .row div h1 {
+  letter-spacing: 10px;
+  font-size: 55px;
+  line-height: 95px;
+  font-weight: 700;
+  font-family: "FPTLight", Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+  header .jumbotron .container.leadin .row div h1 span {
+    padding: 0px;
+    font-size: 1.2em; }
+header .jumbotron .container .scroll_icon {
+  position: absolute;
+  z-index: 1;
+  bottom: 40px;
+  border-radius: 50px;
+  border: 4px #FFFFFF solid;
+  width: 43px;
+  height: 66px; }
+  header .jumbotron .container .scroll_icon:before {
+    content: "";
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    display: block;
+    width: 8px;
+    height: 8px;
+    border-radius: 8px;
+    left: 13px;
+    top: 9px;
+    -webkit-animation: MouseScrollDot 1.5s ease infinite;
+    -moz-animation: MouseScrollDot 1.5s ease infinite;
+    animation: MouseScrollDot 1.5s ease infinite; }
+  header .jumbotron .container .scroll_icon:after {
+    content: " ";
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+    display: none;
+    width: 200px;
+    left: 52px;
+    top: 5px; }
+  header .jumbotron .container .scroll_icon span {
+    content: "&#21521;&#19979;&#26597;&#30475;&#26356;&#22810;";
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 200px;
+    left: 52px;
+    top: 8px; }
+
+section .body.innerBody .content h2 {
+  margin: 42px 0 10px; }
+section .body.innerBody .content .contactName {
+  font-size: 1.0em;
+  font-family: "FPTLight", Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+section .body.innerBody .content .contactNumber a, section .body.innerBody .content .contactEmail a {
+  font-size: 1.2em; }
+section .body.innerBody .content .expandList {
+  padding: 0px; }
+  section .body.innerBody .content .expandList.bullet > li a:before {
+    top: 10px; }
+  section .body.innerBody .content .expandList > li a {
+    font-weight: 700;
+    font-family: "FPTLight", Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+    section .body.innerBody .content .expandList > li a:before {
+      left: 1px;
+      top: 5px; }
+section .body.innerBody .content .winners ul li ul > li h3 {
+  font-weight: 600;
+  letter-spacing: 2px; }
+section .body h1 {
+  font-size: 2.4em;
+  font-weight: 700;
+  font-family: "FPTLight", Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+section .body .grid.highlights .item a h3:before {
+  content: " ";
+  border-width: 1px;
+  border-style: solid;
+  border-color: #0E023D;
+  border-radius: 20px;
+  width: 18px;
+  height: 18px;
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: -26px; }
+section .body .grid.highlights .item a h3:after {
+  content: " ";
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 4px 0 4px 6.9px;
+  border-color: transparent transparent transparent #0E023D;
+  position: absolute;
+  top: 6px;
+  left: -19px; }
+section .body .grid.publication .item a h3:before {
+  content: " ";
+  width: 3px;
+  height: 6px;
+  border-radius: 0;
+  border-width: 0px;
+  background-color: #0E023D;
+  display: block;
+  position: absolute;
+  top: 6px;
+  left: -16.3px; }
+section .body .grid.publication .item a h3:after {
+  content: " ";
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 6.9px 4px 0 4px;
+  border-color: #0E023D transparent transparent transparent;
+  position: absolute;
+  top: 11px;
+  left: -19px; }
+section .body .grid .item h3 {
+  font-family: "FPTLight", Helvetica, Arial, "Microsoft JhengHei", sans-serif;
+  font-weight: 700; }
+  section .body .grid .item h3 span {
+    font-weight: 700;
+    font-family: "FPTLight", Helvetica, Arial, "Microsoft JhengHei", sans-serif;
+    margin: 5px 0 0; }
+section .body aside.innerPage ul {
+  margin-top: 8px; }
+section .body aside.judgesDetails h2 {
+  font-weight: 700;
+  font-family: "FPTLight", Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+
+#pageJudges section .body .grid .row {
+  min-height: inherit; }
+
+@media (max-width: 1130px) {
+  .navbar .container-fluid .navbar-header .menuitemContainer ul.menuitem {
+    width: auto; }
+
+  header .jumbotron .container .scroll_icon {
+    position: fixed;
+    bottom: 40px;
+    border-radius: 20px;
+    border: 4px #FFFFFF solid;
+    width: 30px;
+    height: 46px; }
+    header .jumbotron .container .scroll_icon:before {
+      content: "";
+      position: relative;
+      background: #FFFFFF;
+      display: block;
+      width: 6px;
+      height: 6px;
+      border-radius: 5px;
+      left: 8px;
+      top: 9px;
+      -webkit-animation: MouseScrollDot 1.5s ease infinite;
+      -moz-animation: MouseScrollDot 1.5s ease infinite;
+      animation: MouseScrollDot 1.5s ease infinite; }
+    header .jumbotron .container .scroll_icon:after {
+      content: "";
+      display: none; }
+    header .jumbotron .container .scroll_icon span {
+      display: none; }
+
+  footer .etnet p {
+    letter-spacing: -0.5px; } }
+@media (max-width: 1050px) {
+  body * {
+    font-size: 18px; }
+
+  section .body aside.innerPage ul {
+    margin-top: 5px; } }
+@media (max-width: 991px) {
+  header .jumbotron .container.leadin .row div h1 span {
+    font-size: .7em; } }

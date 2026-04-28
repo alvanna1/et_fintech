@@ -1,0 +1,579 @@
+{
+    "header_nav": {
+        "awards": "奬項類別",
+        "judges": "評審",
+        "winners": "得奬名單",
+        "highlights": "花絮",
+        "exposures": "報導",
+        "past_events": "回顧",
+        "lang_opt": "EN"
+    },
+    "social": {
+        "fb": "Share to Facebook",
+        "linkedin": "Share to Linkdedin",
+        "ln": "Share to Line",
+        "whatsApp": "Share to WhatsApp",
+        "wb": "Share to Weibo"
+    },
+    "home":{
+        "highlights":"2022金融科技大獎活動花絮",
+        "p1":"「元宇宙」在各範疇正大放異彩，我們相信它亦會為金融科技帶來新方向及新發展趨勢。行政長官李家超先生在2022年施政報告中表示「創新科技是激活香港經濟高質量發展的重要引擎」。",
+        "p2":"作為具有可持續增長能力的國際金融中心，亦是世界公認的數碼技術和創新的先驅，香港正在尋求如何把金融科技融入綠色金融的元素，以加速綠色金融在本港的發展。這反映企業日常決策需要衡量周邊環境所帶來的風險和機遇，以可達到目標，也同時研發對環境有利的產品和服務，隨著適當政策的推行，開拓低碳和資源效率高的綠色數碼金融的公司潮流。",
+        "p3":"由經濟通舉辦的「2022金融科技大獎」已經是連續第六年，目的是表揚本港在金融科技發展上有顯著實踐的企業。",
+        "p4":"此獎項憑著卓越的業務表現和持續增長，贏得在市場的認可，也對獲獎的金融科技公司在其業務發展上給予肯定。"
+    },
+    "awards_title": "獎項",
+    "award_array": {
+        "finTechofyear": "2022 金融科技大獎",
+        "marketing": "2022 金融科技市場策劃大獎",
+        "startup": "2022 金融科技大獎 - 初創企業",
+        "ai": "2022金融科技大獎-人工智能",
+        "bigdata": "2022金融科技大獎-大數據",
+        "blockchain": "2022金融科技大獎-區塊鏈方案",
+        "cloud": "2022金融科技大獎-雲端",
+        "consumerpayments": "2022金融科技大獎-消費者電子支付提案",
+        "ecosphere": "2022金融科技大獎-協作生態圈",
+        "corporate": "2022金融科技大獎-企業銀行",
+        "corporatepayments": "2022金融科技大獎-企業電子支付提案",
+        "cryptoassetexchange": "2022金融科技大獎–加密技術與貨幣和加密資產交易供應商 (CEP]",
+        "fraud": "2022金融科技大獎-網絡安全",
+        "esgproject": "2022金融科技大獎-數碼 環境、社會和管治(ESG]項目",
+        "esgprovider": "2022金融科技大獎-環境、社會和管治 (ESG] 指數供應商",
+        "esgsolution": "2022金融科技大獎-環境、社會和管治 (ESG] 解決方案",
+        "fxpayment": "2022金融科技大獎-外匯 / 電子支付方案",
+        "greenfintech": "2022金融科技大獎-環保金融科技發展",
+        "esgproduct": "2022金融科技大獎-創新環境、社會和管治 (ESG] 產品",
+        "insurance": "2022金融科技大獎-保險",
+        "lending": "2022金融科技大獎-信貸",
+        "mpftechnology": "2022金融科技大獎-強積金科技",
+        "protech": "2022金融科技大獎-地產科技",
+        "regtech": "2022金融科技大獎-監管科技方案",
+        "research": "2022金融科技大獎-研發平台",
+        "retail": "2022金融科技大獎-零售銀行",
+        "retailsupply": "2022金融科技大獎-零售/供應鏈管理",
+        "tradingsystems": "2022金融科技大獎-交易系統",
+        "crossborder": "2022金融科技大獎-跨境交易系統",
+        "virtual": "2022金融科技大獎-虛擬銀行",
+        "wealth": "2022金融科技大獎-財富投資與管理",
+        "adversitytech": "2022金融科技大獎-疫境表揚: 金融科技應用表現",
+        "adversityprod": "2022金融科技大獎-疫境表揚: 金融科技產品"
+    },
+    "winners_title": "得獎名單",
+    "winners": {
+        "finTechofyear": [
+            {
+                "name": "WeLend Limited",
+                "award": ""
+            }
+        ],
+        "marketing": [
+            {
+                "name": "WeLab Bank Limited",
+                "award": ""
+            }
+        ],
+        "startup": [
+            {
+                "name": "Mojodomo Hong Kong Limited",
+                "award": ""
+            }
+        ],
+        "ai": [
+            {
+                "name": "譯谷有限公司",
+                "award": "傑出人工智能財經文件翻譯引擎"
+            },
+            {
+                "name": "轉手快科技有限公司",
+                "award": "傑出人工智能分類平台"
+            }
+        ],
+        "bigdata": [
+            {
+                "name": "香港上海滙豐銀行有限公司",
+                "award": "傑出數碼大數據分析應用"
+            }
+        ],
+        "blockchain": [
+            {
+                "name": "BUEARN Group Limited",
+                "award": "傑出運動獎賞平台"
+            },
+            {
+                "name": "Chef Digital Limited",
+                "award": "傑出元宇宙營銷平台"
+            },
+            {
+                "name": "Coded Solution Limited",
+                "award": "傑出數碼黃金管理系統"
+            },
+            {
+                "name": "誠鐫科技有限公司",
+                "award": "傑出數碼交易成交解決方案"
+            },
+            {
+                "name": "NFT Investment and Venture Limited",
+                "award": "傑出NFT智易通服務"
+            },
+            {
+                "name": "NUT Limited",
+                "award": "傑出企業加密貨幣付款方案"
+            },
+            {
+                "name": "願景碳有限公司",
+                "award": "傑出一站式碳信用交易平台"
+            }
+        ],
+        "cloud": [
+            {
+                "name": "HKT Enterprise Solutions",
+                "award": "傑出託管雲端方案"
+            },
+            {
+                "name": "Vonage",
+                "award": "傑出雲端通訊解決方案"
+            }
+        ],
+        "consumerpayments": [
+            {
+                "name": "Hero Plus (Hong Kong] Limited",
+                "award": "傑出創新消費信貸服務"
+            },
+            {
+                "name": "Kare System Engineering Company Limited",
+                "award": "傑出一站式屋苑服務應用程式"
+            },
+            {
+                "name": "拍拍寶科技有限公司",
+                "award": "傑出創新可穿戴式付款解決方案"
+            }
+        ],
+        "ecosphere": [
+            {
+                "name": "東亞銀行有限公司",
+                "award": "傑出共同創新和協作金融科技平台"
+            }
+        ],
+        "corporate": [
+            {
+                "name": "中國銀行(香港]有限公司",
+                "award": "傑出創新中小企銀行服務"
+            },
+            {
+                "name": "BINERY Limited",
+                "award": "傑出一站式會計自動化解決方案"
+            },
+            {
+                "name": "中國建設銀行 (亞洲]",
+                "award": "傑出企業綜合現金管理方案"
+            }
+        ],
+        "corporatepayments": [
+            {
+                "name": "聯款通",
+                "award": "傑出全方位數碼支付平台"
+            },
+            {
+                "name": "Mojodomo Hong Kong Limited",
+                "award": "傑出企業電子優惠券管理方案"
+            },
+            {
+                "name": "Payment Asia",
+                "award": "傑出一站式企業支付方案"
+            }
+        ],
+        "fraud": [
+            {
+                "name": "廣發控股(香港]有限公司",
+                "award": "傑出證券網上交易平台"
+            },
+            {
+                "name": "HKT Enterprise Solutions",
+                "award": "傑出網絡安全方案(商用]"
+            },
+            {
+                "name": "香港資訊保安控制中心有限公司",
+                "award": "傑出企業網絡安全管理系統"
+            },
+            {
+                "name": "數字隧道技術有限公司",
+                "award": "傑出個人加密貨幣付款管理應用程式"
+            },
+            {
+                "name": "香港上海滙豐銀行有限公司",
+                "award": "傑出網絡安全管理銀行服務"
+            }
+        ],
+        "esgprovider": [
+            {
+                "name": "MSCI",
+                "award": "傑出環境、社會及管治 (ESG] 指數供應服務"
+            }
+        ],
+        "esgsolution": [
+            {
+                "name": "碳世界有限公司",
+                "award": "傑出創新綠色交易應用程式"
+            },
+            {
+                "name": "益思智綠色金融科技有限公司",
+                "award": "傑出ESG數據管理平台"
+            },
+            {
+                "name": "HKT Enterprise Solutions",
+                "award": "傑出智能流程自動化方案"
+            },
+            {
+                "name": "MSCI",
+                "award": "傑出環境、社會及管治 (ESG] 數據解決方案"
+            },
+            {
+                "name": "ProMEX Limited",
+                "award": "傑出數碼自願碳市場平台"
+            }
+        ],
+        "fxpayment": [
+            {
+                "name": "成摩科技有限公司",
+                "award": "傑出API電子支付平台"
+            },
+            {
+                "name": "錢方好近金融科技有限公司",
+                "award": "傑出跨境移動支付方案"
+            }
+        ],
+        "esgproduct": [
+            {
+                "name": "環球房產科技有限公司",
+                "award": "傑出綠色海外房產按揭投資配對平台"
+            }
+        ],
+        "insurance": [
+            {
+                "name": "10Life Hong Kong Limited",
+                "award": "傑出保險比較平台 "
+            },
+            {
+                "name": "Blue Insurance Limited",
+                "award": "傑出全方位網上保險服務"
+            },
+            {
+                "name": "雲新國際(香港]有限公司",
+                "award": "傑出保單文件管理平台"
+            },
+            {
+                "name": "保富匙有限公司",
+                "award": "傑出一站式客戶引流平台"
+            },
+            {
+                "name": "保誠保險有限公司",
+                "award": "傑出數碼健康及保險服務"
+            },
+            {
+                "name": "華利保險科技有限公司",
+                "award": "傑出餐飲風險評估應用程式"
+            },
+            {
+                "name": "YAS 微保險",
+                "award": "傑出科技保險應用程式"
+            }
+        ],
+        "lending": [
+            {
+                "name": "FundPark Limited",
+                "award": "傑出中小企融資平台"
+            },
+            {
+                "name": "融易香港",
+                "award": "傑出個人理財應用程式"
+            },
+            {
+                "name": "Lendela 借得la",
+                "award": "傑出網上貸款比較平台"
+            },
+            {
+                "name": "Match Up Agency Limited",
+                "award": "傑出創新網上貸款處理平台"
+            },
+            {
+                "name": "滙創未來科技有限公司",
+                "award": "傑出人工智能貸款服務"
+            },
+            {
+                "name": "WeLend Limited",
+                "award": "傑出私人貸款平台"
+            }
+        ],
+        "mpftechnology": [
+            {
+                "name": "Heron Solution Limited",
+                "award": "傑出強積金戶口整合應用程式"
+            }
+        ],
+        "regtech": [
+            {
+                "name": "銳智金融科技有限公司",
+                "award": "傑出人工智能信貸風險評估方案 "
+            },
+            {
+                "name": "Just Solutions Limited",
+                "award": "傑出監管技術方案"
+            },
+            {
+                "name": "智咨詢集團有限公司",
+                "award": "傑出科技顧問服務"
+            }
+        ],
+        "retailsupply": [
+            {
+                "name": "KRIP Limited",
+                "award": "傑出個人化信用卡優惠平台"
+            },
+            {
+                "name": "米索飛(香港]有限公司",
+                "award": "傑出電子消費及優惠劵方案"
+            }
+        ],
+        "retail": [
+            {
+                "name": "大新銀行",
+                "award": "傑出個人數碼理財服務"
+            },
+            {
+                "name": "恒生銀行有限公司",
+                "award": "傑出數碼銀行服務"
+            },
+            {
+                "name": "恒生銀行有限公司",
+                "award": "傑出創新數碼銀行理財方案"
+            },
+            {
+                "name": "香港上海滙豐銀行有限公司",
+                "award": "傑出全方位銀行理財服務"
+            }
+        ],
+        "tradingsystems": [
+            {
+                "name": "蒜頭科技有限公司",
+                "award": "傑出零售交易軟件服務"
+            }
+        ],
+        "virtual": [
+            {
+                "name": "天星銀行",
+                "award": "傑出虛擬個人銀行服務 "
+            },
+            {
+                "name": "Livi Bank Limited",
+                "award": "傑出虛擬銀行靈活支付產品"
+            },
+            {
+                "name": "平安壹賬通銀行（香港）有限公司",
+                "award": "傑出虛擬中小企銀行服務"
+            },
+            {
+                "name": "WeLab Bank Limited",
+                "award": "傑出創新理財顧問平台"
+            }
+        ],
+        "wealth": [
+            {
+                "name": "Algogene Financial Technology Company Limited",
+                "award": "傑出雲端開放式算法交易平台"
+            },
+            {
+                "name": "BCT 銀聯集團",
+                "award": "傑出全方位管理 MPF 戶口平台"
+            },
+            {
+                "name": "中國建設銀行 (亞洲]",
+                "award": "傑出粵港澳大灣區跨境金融服務方案"
+            },
+            {
+                "name": "招商永隆銀行有限公司",
+                "award": "傑出數碼理財及證券服務平台"
+            },
+            {
+                "name": "招商永隆銀行有限公司",
+                "award": "傑出智能投資管理平台"
+            },
+            {
+                "name": "EVIDENT",
+                "award": "傑出另類資產投資平台"
+            },
+            {
+                "name": "華泰金融控股(香港]有限公司",
+                "award": "傑出數碼財富管理平台"
+            },
+            {
+                "name": "渣打銀行(香港]有限公司",
+                "award": "傑出個人投資分析服務"
+            }
+        ],
+        "adversitytech": [
+            {
+                "name": "Oceanpayment",
+                "award": "傑出數字支付技術解決方案"
+            }
+        ]
+    },
+    "exposures_array": {
+        "title":"報導",
+        "tab1":"刊物",
+        "tab2":" 文章",
+        "publication1_title":"得獎者名單",
+        "publication1_details":"刊登於《香港經濟日報》（2023年1月18日）",
+        "publication2_title":"得獎者名單",
+        "publication2_details":"刊登於《英文虎報》（2023年1月18日）",
+        "publication3_title":"得獎者名單",
+        "publication3_details":" 刊登於《香港經濟日報》（2023年2月06日）"
+    },
+    "highlights_array": {
+        "title":"花絮",
+        "tab1":"相片",
+        "tab2":"影片"
+    },
+    "judges_array": {
+        "title":"評審",
+        "description":"2022 金融科技大獎的評審委員會由金融科技及訊息通訊技術專業人士組成，成員來自相關行業和專業協會、公司、教育機構及政府機構。評委名單如下：",
+        "criteria":"評審準則",
+        "head_of_judge":"評審主席",
+        "head_of_judge_name":"鄧淑明博士, MH, JP",
+        "head_of_judge_title1":"智慧城市聯盟",
+        "head_of_judge_title2":"創辦人及榮譽會長",
+        "panel_of_judges":"其他評審",
+        "judges": [
+            {
+                "name": "陳家豪教授",
+                "title": "雲端與流動運算專業人士協會\n主席",
+                "img": "Emil-Chan.png"
+            },
+            {
+                "name": "陳思源工程師",
+                "title": "數碼港\n首席公眾使命官",
+                "img": "Eric-Chan.png"
+            },
+            {
+                "name": "湛家揚博士",
+                "title": "OpenCertHub\n 主席",
+                "img": "Toa-Charm.png"
+            },
+            {
+                "name": "張群先生",
+                "title": "香港網商會\n會長",
+                "img": "Kenny-Cheung.png"
+            },
+            {
+                "name": "邱達根議員",
+                "title": "香港特別行政區 \n立法會議員（科技創新界）",
+                "img": "Duncan-Chiu.png"
+            },
+            {
+                "name": "蔡偉傑先生",
+                "title": "數碼港\n 智慧生活組高級經理",
+                "img": "Ricky-Choi.png"
+            },
+            {
+                "name": "莊太量教授, MH",
+                "title": "香港中文大學經濟學系副教授\n 劉佐德全球經濟及金融研究所常務所長",
+                "img": "Terence-Chong.png"
+            },
+            {
+                "name": "秦仲宇先生",
+                "title": "藝群有限公司\n行政總裁",
+                "img": "Daniel-Chun.png"
+            },
+            {
+                "name": "霍露明博士",
+                "title": "香港科技園公司\nSTP Platform 總監",
+                "img": "Crystal-Fok.png"
+            },
+            {
+                "name": "方保僑先生",
+                "title": "香港互動市務商會\n創會及榮譽會長",
+                "img": "Francis-Fong.png"
+            },
+            {
+                "name": "許健生先生",
+                "title": "香港電腦商會\n主席",
+                "img": "Sam-Hui.png"
+            },
+            {
+                "name": "洪爲民教授, JP",
+                "title": "斑馬星球科創加速平台創始合夥人\n 前海管理局香港事務首席聯絡官",
+                "img": "Witman-Hung.png"
+            },
+            {
+                "name": "顧向聖先生",
+                "title": "大灣區5G產業聯盟\n金融行業委員會總監",
+                "img": "Peter-Koo.png"
+            },
+            {
+                "name": "林漢威先生",
+                "title": "互聯網專業協會\n行政總裁",
+                "img": "Jacky-Lam.png"
+            },
+            {
+                "name": "梁偉峰博士",
+                "title": "香港理工大學專業及持續教育學院\n科技、工程及健康學部講師",
+                "img": "Joseph-Leung.png"
+            },
+            {
+                "name": "梁淑寶小姐",
+                "title": "香港科技創新促進組\n創辦人兼執行總監",
+                "img": "Sandra-Leung.png"
+            },
+            {
+                "name": "李勁華先生",
+                "title": "香港無線科技商會\n主席",
+                "img": "Keith-Li.png"
+            },
+            {
+                "name": "蘇文傑教授",
+                "title": "執業律師\n AC Lawyers LLP 律師事務所創始合伙人\n香港調解仲裁中心主席\n財富承傳策劃協會主席\n加州大學(商業法律及科技學院)院長",
+                "img": "Albert-So.png"
+            },
+            {
+                "name": "蘇增慰先生",
+                "title": "香港零售科技商會\n 會長",
+                "img": "Vincent-So.png"
+            },
+            {
+                "name": "溫浩源博士",
+                "title": "中匯安達會計師事務所有限公司\n合夥人",
+                "img": "Terence-Wan.png"
+            },
+            {
+                "name": "黃麗芳小姐",
+                "title": "香港青聯科技協會\n主席",
+                "img": "Yvonne-Wong.png"
+            },
+            {
+                "name": "姚兆明教授",
+                "title": "香港大學計算機科學系教授\n港大 - 渣打慈善基金\n金融科技學院副總監",
+                "img": "Yiu-Siu-Ming.png"
+            },
+            {
+                "name": "袁念祖先生",
+                "title": "香港電商聯會\n主席",
+                "img": "Joseph-Yuen.png"
+            }
+        ],
+        "legal_advisor":"法律顧問",
+        "legal_advisor_name":"謝遠明律師",
+        "legal_advisor_title":"董吳謝林律師事務所\n合夥人"
+    },
+    "footer":{
+        "copyright":"© 2022 版權屬經濟通有限公司所有",
+        "contact":"聯絡我們",
+        "co_organizers":"協辦機構及金融科技夥伴",
+        "co_organizer":"協辦機構",
+        "parner":"策略夥伴",
+        "sponsor":"贊助機構",
+        "supportOrganization":"支持機構"
+    },
+    "contact": {
+        "title": "聯絡",
+        "enquiries": "活動及獎項查詢"
+    }
+}

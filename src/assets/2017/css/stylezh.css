@@ -1,0 +1,218 @@
+/* Scss Document */
+body * {
+  font-size: 18px;
+  font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+body h2 {
+  font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif;
+  font-weight: 700; }
+body ul.line li:before {
+  content: '';
+  display: block;
+  width: 10px;
+  height: 2px;
+  background: #FFFFFF;
+  position: absolute;
+  top: 9px;
+  left: -26px; }
+body.chinese {
+  font-size: 18px; }
+
+.redText, #pagehighlightsVideo aside li a[href*="highlightsVideo.php"], #pagehighlightsPhoto aside li a[href*="highlights.php"] {
+  color: #DA2228; }
+  .redText:after, #pagehighlightsVideo aside li a[href*="highlightsVideo.php"]:after, #pagehighlightsPhoto aside li a[href*="highlights.php"]:after {
+    content: "";
+    background: #DA2228;
+    height: 2px;
+    width: 100%;
+    display: block; }
+
+.redlineExtendAfter:after, #pageAwards nav .menuitem a[href*="awards.php"]:after, #pageJudges nav .menuitem a[href*="judges.php"]:after, #pageSponsors nav .menuitem a[href*="sponsors.php"]:after, #pageContact nav .menuitem a[href*="contact.php"]:after, #pageWinners nav .menuitem a[href*="winners.php"]:after, #pageHighlights nav .menuitem a[href*="highlights.php"]:after, #pageArchive nav .menuitem a[href*="archive.php"]:after {
+  content: "";
+  display: block;
+  background: #DA2228;
+  height: 4px;
+  width: 30px;
+  position: absolute;
+  top: -40px;
+  right: 0;
+  left: 0;
+  margin: 0 auto; }
+
+.redlineExtendLine .lang a:after, #pageAwards nav .menuitem .lang a:after, #pageJudges nav .menuitem .lang a:after, #pageSponsors nav .menuitem .lang a:after, #pageContact nav .menuitem .lang a:after, #pageWinners nav .menuitem .lang a:after, #pageHighlights nav .menuitem .lang a:after, #pageArchive nav .menuitem .lang a:after {
+  content: "";
+  display: none; }
+
+.navbar .container-fluid .navbar-header .menuitem {
+  top: 12px; }
+  .navbar .container-fluid .navbar-header .menuitem ul li {
+    width: 45px; }
+    .navbar .container-fluid .navbar-header .menuitem ul li.english a {
+      font-size: 1em; }
+    .navbar .container-fluid .navbar-header .menuitem ul li a {
+      display: block;
+      font-size: 1em;
+      text-align: center;
+      font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif;
+      color: #FFFFFF; }
+    .navbar .container-fluid .navbar-header .menuitem ul li.callAction {
+      width: 132px; }
+      .navbar .container-fluid .navbar-header .menuitem ul li.callAction:before {
+        content: "";
+        display: block;
+        position: absolute;
+        z-index: 0;
+        top: 4px;
+        left: -5px;
+        width: 141px;
+        height: 48px;
+        border-radius: 31px;
+        filter: blur(10px);
+        background: linear-gradient(270deg, #da2228, #005aeb, #00cf95);
+        background-size: 400% 400%;
+        -webkit-animation: Btn-Gradient 20s ease infinite;
+        -moz-animation: Btn-Gradient 20s ease infinite;
+        animation: Btn-Gradient 20s ease infinite; }
+    .navbar .container-fluid .navbar-header .menuitem ul li.lang {
+      padding: 0 15px; }
+      .navbar .container-fluid .navbar-header .menuitem ul li.lang a:before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: -2px;
+        left: 13px;
+        background: url(../images/icon.png) no-repeat;
+        width: 26px;
+        height: 26px;
+        background-position: -243px 0; }
+
+header .jumbotron .container.leadin {
+  top: 35%; }
+  header .jumbotron .container.leadin .row div h1 {
+    letter-spacing: 10px;
+    font-size: 3.889em;
+    line-height: 95px;
+    font-weight: 700;
+    font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+header .jumbotron .container .scroll_icon {
+  position: absolute;
+  z-index: 1;
+  bottom: 40px;
+  border-radius: 50px;
+  border: 4px #FFFFFF solid;
+  width: 43px;
+  height: 66px; }
+  header .jumbotron .container .scroll_icon:before {
+    content: "";
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    display: block;
+    width: 8px;
+    height: 8px;
+    border-radius: 8px;
+    left: 13px;
+    top: 9px;
+    -webkit-animation: MouseScrollDot 1.5s ease infinite;
+    -moz-animation: MouseScrollDot 1.5s ease infinite;
+    animation: MouseScrollDot 1.5s ease infinite; }
+  header .jumbotron .container .scroll_icon:after {
+    content: " ";
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+    display: none;
+    width: 200px;
+    left: 52px;
+    top: 5px; }
+  header .jumbotron .container .scroll_icon span {
+    content: "&#21521;&#19979;&#26597;&#30475;&#26356;&#22810;";
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 200px;
+    left: 52px;
+    top: 8px; }
+
+section .body.highlightsInterview .grid .item figcaption {
+  font-size: 1em; }
+section .body.innerBody .content h2 {
+  margin: 42px 0 10px; }
+section .body.innerBody .content .contactName {
+  font-size: 1.0em;
+  font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+section .body.innerBody .content .contactNumber a, section .body.innerBody .content .contactEmail a {
+  font-size: 1.0em; }
+section .body.innerBody .content .expandList {
+  padding: 0px; }
+  section .body.innerBody .content .expandList > li a {
+    font-weight: 700;
+    font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+  section .body.innerBody .content .expandList > li:before {
+    transition: all 200ms ease-in;
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 0 8px 12px;
+    border-color: transparent transparent transparent #ffffff;
+    position: absolute;
+    left: 1px;
+    top: 5px; }
+section .body h1 {
+  font-size: 3.611em;
+  font-weight: 700;
+  font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+section .body .grid .item h3 {
+  font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif;
+  font-weight: 700; }
+  section .body .grid .item h3 span {
+    font-weight: 700;
+    font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif;
+    margin: 5px 0 0; }
+section .body aside.judgesDetails h2 {
+  font-weight: 700;
+  font-family: Helvetica, Arial, "Microsoft JhengHei", sans-serif; }
+
+@media (max-width: 1000px) {
+  body * {
+    font-size: 15px; }
+
+  .navbar .container-fluid .navbar-header .menuitemMobile > .container ul li > a {
+    font-size: 1.556em; }
+  .navbar .container-fluid .navbar-header .menuitemMobile > .container footer .container .lang {
+    top: 11px; }
+
+  header .jumbotron .container.leadin .row div h1 {
+    font-size: 2.273em;
+    line-height: 55px;
+    letter-spacing: 8px; }
+  header .jumbotron .container .scroll_icon {
+    position: fixed;
+    bottom: 40px;
+    border-radius: 20px;
+    border: 4px #FFFFFF solid;
+    width: 30px;
+    height: 46px; }
+    header .jumbotron .container .scroll_icon:before {
+      content: "";
+      position: relative;
+      background: #FFFFFF;
+      display: block;
+      width: 6px;
+      height: 6px;
+      border-radius: 5px;
+      left: 8px;
+      top: 9px;
+      -webkit-animation: MouseScrollDot 1.5s ease infinite;
+      -moz-animation: MouseScrollDot 1.5s ease infinite;
+      animation: MouseScrollDot 1.5s ease infinite; }
+    header .jumbotron .container .scroll_icon:after {
+      content: "";
+      display: none; }
+    header .jumbotron .container .scroll_icon span {
+      display: none; }
+
+  footer .etnet p {
+    letter-spacing: -0.5px; } }

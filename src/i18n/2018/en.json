@@ -1,0 +1,486 @@
+{
+    "header_nav": {
+        "awards": "Awards",
+        "judges": "Judges",
+        "winners": "Winners",
+        "sponsors": "sponsors",
+        "highlights": "Highlights",
+        "past_events": "Past Events",
+        "lang_opt": "ZH"
+    },
+    "social": {
+        "fb": "Share to Facebook",
+        "linkedin": "Share to Linkdedin",
+        "ln": "Share to Line",
+        "whatsApp": "Share to WhatsApp",
+        "wb": "Share to Weibo"
+    },
+    "home": {
+        "title1": "Building the",
+        "title2": "FinTech",
+        "title3": "Ecosystem",
+        "p1": "Without a doubt FinTech have an increasingly important role to play. Collaboration between financial institutions and FinTech looks to be the most fruitful approach – combining the industry know-how, resources and client base of financial institutions with the innovation and agility of FinTech. FinTech Awards 2018 recognizes excellence and innovation in the use of IT in financial services in Hong Kong and Greater Bay Area, and the people who make it happen.",
+        "notice1": "Important Dates",
+        "notice2": "1 Nov - 31 Dec 2018",
+        "notice3": "Application",
+        "notice4": "31 Jan 2019",
+        "notice5": "Awards Results Announcement",
+        "notice6": "6 Mar 2019",
+        "notice7": "Award Presentation Ceremony",
+        "event1": "Event Details",
+        "event2": "Award Presentation Ceremony ",
+        "event3": "6 Mar 2019",
+        "event4": "Conrad Hong Kong Hotel",
+        "event5": "Pacific Place, 88 Queensway,",
+        "event6": "Central, Hong Kong",
+        "event7": "Loading..."
+    },
+    "sponsors": {
+        "h1": "Sponsors",
+        "p1": "The FinTech Awards 2018 provide our sponsors with unique brand building opportunities among a wide network of leading businesses and individuals from across the financial technology sector.",
+        "p2": "As a sponsor, your company will be associated with excellence and innovation, boosting its profile within the industry and positioning your brand as a thought leader in the space.",
+        "p3": "The sponsor will present the trophy to winners. It is a great honour for the winners to receive the award from the prestigious industry leader.",
+        "p4": "To be our sponsor of FinTech Awards 2018, our extensive marketing and public relations campaign assists us to generate interest in the Awards whilst promoting our sponsors as the supportive industry players. The public and industry support of the Awards will provide various positive opportunities for sponsors to be aligned with a wide range of commercial activities.",
+        "p5": "Press",
+        "p6": "Printed material and direct mail",
+        "p7": "Social media",
+        "p8": "Advertisements on outdoor and etc.",
+        "p9": "Sponsors will find significant opportunities for exposure within:",
+        "p10": "Leading corporations and businesses",
+        "p11": "Industry players and associations",
+        "p12": "General public, through significant mass media exposure",
+        "parner": "Knowledge Partner",
+        "sponsors": "Sponsors"
+    },
+    "awards_title": "Awards",
+    "awards_no_description": "No Award Description",
+    "award_array": {
+        "finTechofyear": "FinTech of the Year 2018",
+        "marketing": "FinTech Marketing Campaign of the Year 2018",
+        "startup": "FinTech of the Year 2018 in Start-up",
+        "retail": "FinTech Awards 2018 in Retail Banking",
+        "corporate": "FinTech Awards 2018 in Corporate Banking",
+        "insurance": "FinTech Awards 2018 in Insurance",
+        "consumerpayments": "FinTech Awards 2018 in Consumer Payments Initiative",
+        "corporatepayments": "FinTech Awards 2018 in Corporate Payments Initiative",
+        "wealth": "FinTech Awards 2018 in Wealth Investment and Management",
+        "lending": "FinTech Awards 2018 in Lending",
+        "retailsupply": "FinTech Awards 2018 in Retail / Supply Chain Management",
+        "fxpayment": "FinTech Awards 2018 in FX / Payment Solutions",
+        "tradingsystems": "FinTech Awards 2018 in Trading Systems",
+        "crossborder": "FinTech Awards 2018 in Trading Systems (Cross-border)",
+        "ai": "FinTech Awards 2018 in Artificial Intelligence",
+        "cloud": "FinTech Awards 2018 in Cloud",
+        "bigdata": "FinTech Awards 2018 in Big Data",
+        "blockchain": "FinTech Awards 2018 in Blockchain Solutions",
+        "fraud": "FinTech Awards 2018 in Cybersecurity / Anti – Fraud",
+        "university": "FinTech Awards 2018 in Universities"
+    },
+    "judges_array": {
+        "title": "judges",
+        "description": "The Judging Panel consists of professionals of the FinTech and ICT industry, with members come from relevant industry and professional associations, companies, educational institutes, and government bodies. Confirmed judges are as below:",
+        "criteria": "Judging Criteria",
+        "head_of_judge": " Head of Judge",
+        "head_of_judge_name": "Dr. Winnie Tang, MH, JP",
+        "head_of_judge_title1": "Founder and Honorary President",
+        "head_of_judge_title2": "Smart City Consortium (SCC)",
+        "panel_of_judges": "Other Judges",
+        "judges": [
+            {
+                "name": "Honourable Charles Mok, JP",
+                "title": "Legislative Councilor\nFunctional Constituency - Information Technology",
+                "img": "Charles-Peter-Mok.png"
+            },
+            {
+                "name": "Mr. Charles Lam",
+                "title": "Senior Manager\nFinTech &#38; Blockchain Cluster Clusters Team\nCyberport",
+                "img": "Charles-Lam.png"
+            },
+            {
+                "name": "Prof. Emil Chan",
+                "title": "Chairman\nThe Association of Cloud and Mobile Computing Professionals",
+                "img": "Emil-Chan.png"
+            },
+            {
+                "name": "Mr. Francis Fong",
+                "title": "Founding and \nHonorary Chairman\nHong Kong Association of \nInteractive Marketing",
+                "img": "Francis-Fong.png"
+            },
+            {
+                "name": "Mr. Gary Yeung, MH",
+                "title": "President\nSmart City Consortium",
+                "img": "Gary-Yeung.png"
+            },
+            {
+                "name": "Dr. Jeffrey Hui",
+                "title": "Honorary Advisor and Former Chairperson\nHong Kong Institute of Marketing",
+                "img": "Jeffrey-Hui.png"
+            },
+            {
+                "name": "Mr. Joseph Yuen",
+                "title": "Chairman\nHong Kong Federation of E-Commerce",
+                "img": "Joseph-Yuen.png"
+            },
+            {
+                "name": "Professor K.C. Chan, GBS, SBS, JP",
+                "title": "Adjunct Professor\nHong Kong University of Science and Technology Business School",
+                "img": "KC-Chan.png"
+            },
+            {
+                "name": "Mr. Kenneth Chau",
+                "title": "Honorary Chairman\nHKSTP Technology Incubation",
+                "img": "Kenneth-Chau.png"
+            },
+            {
+                "name": "Mr. Peter Koo",
+                "title": "APAC Leader\nIT &amp; Specialised Assurance\nDeloitte",
+                "img": "Peter-Koo.png"
+            },
+            {
+                "name": "Ir Yeung, Peter Tin Chung",
+                "title": "Head of Electronics ; ICT Clusters\nSmart City Platform\nHong Kong Science ; Technology Parks Corporation",
+                "img": "Ir-Yeung.png"
+            },
+            {
+                "name": "Mr. Ralph Szeto",
+                "title": "Chairman\nHong Kong Association of Interactive Marketing",
+                "img": "Ralph-Szeto.png"
+            },
+            {
+                "name": "Mr. Sam Hui",
+                "title": "Chairman\nThe Chamber of Hong Kong \nComputer Industry",
+                "img": "Sam-Hui.png"
+            },
+            {
+                "name": "Mr. Vincent So",
+                "title": "Chairman\nHong Kong Retail Technology \nIndustry Association",
+                "img": "Vincent-So.png"
+            },
+            {
+                "name": "Mr. Warren Ng",
+                "title": "Chairman\nHong Kong Netrepreneurs Association",
+                "img": "Warren-Ng.png"
+            },
+            {
+                "name": "Professor Witman Hung, JP",
+                "title": "Deputy\nNational People's Congress, PRC",
+                "img": "Witman-Hung.png"
+            }
+        ]
+    },
+    "winners_title": "Winners",
+    "winners": {
+        "finTechofyear": [
+            {
+                "name": "DBS Bank (Hong Kong) Limited",
+                "award": ""
+            }
+        ],
+        "marketing": [
+            {
+                "name": "Alipay Payment Services (HK) Limited",
+                "award": ""
+            }
+        ],
+        "startup": [
+            {
+                "name": "CASH Algo Finance Group Limited",
+                "award": ""
+            }
+        ],
+        "retail": [
+            {
+                "name": "China CITIC Bank International Limited",
+                "award": "Outstanding Innovative Mobile Banking Service"
+            },
+            {
+                "name": "Standard Chartered Bank (Hong Kong) Limited",
+                "award": "Outstanding Personal Mobile Banking Application"
+            },
+            {
+                "name": "Standard Chartered Bank (Hong Kong) Limited",
+                "award": "Outstanding Innovation Technology Support Lab"
+            }
+        ],
+        "corporate": [
+            {
+                "name": "The Hongkong and Shanghai Banking Corporation Limited",
+                "award": "Outstanding Commercial Banking Service"
+            }
+        ],
+        "insurance": [
+            {
+                "name": "10Life",
+                "award": "Outstanding Insurance Information Online Platform"
+            },
+            {
+                "name": "Covergo",
+                "award": "Outstanding B2B Insurance Integration Solution"
+            },
+            {
+                "name": "Ping An Insurance (Group) Company of China, Ltd",
+                "award": "Outstanding Intelligent Insurance Platform"
+            },
+            {
+                "name": "Wesurance Limited",
+                "award": "Outstanding Insurance Mobile Application"
+            }
+        ],
+        "consumerpayments": [
+            {
+                "name": "DBS Bank Hong Kong Limited",
+                "award": "Outstanding Instant Approval Credit Card Application"
+            },
+            {
+                "name": "Hang Seng Bank Limited",
+                "award": "Outstanding Personal Real-time Transfer & Payment System"
+            },
+            {
+                "name": "HKT Payment Limited (Tap&Go)",
+                "award": "Outstanding Mobile Payment Application"
+            },
+            {
+                "name": "Standard Chartered Bank (Hong Kong) Limited",
+                "award": "Outstanding FPS Application Platform"
+            },
+            {
+                "name": "KeyChain Pay",
+                "award": "Outstanding Rental Payment Mobile Application"
+            }
+        ],
+        "corporatepayments": [
+            {
+                "name": "Global Payments Asia Pacific Limited",
+                "award": "Outstanding Retail Mobile Payment Solution"
+            },
+            {
+                "name": "QFPay Haojin Fintech Limited",
+                "award": "Outstanding Corporate Mobile Payment Solution"
+            }
+        ],
+        "wealth": [
+            {
+                "name": "Standard Chartered Bank (Hong Kong) Limited",
+                "award": "Outstanding Intelligent Personal Investment Service"
+            },
+            {
+                "name": "The Bank of East Asia, Limited",
+                "award": "Outstanding Intelligent Lifestyle and Financial Management Platform"
+            },
+            {
+                "name": "TRANSIN Holding Limited",
+                "award": "Outstanding Wealth-saving Application"
+            },
+            {
+                "name": "CMB Wing Lung Bank Limited",
+                "award": "Outstanding Personal Financial Management Mobile Application"
+            },
+            {
+                "name": "IX FinTech Limited",
+                "award": "Outstanding Options Information Mobile Application"
+            }
+        ],
+        "lending": [
+            {
+                "name": "FundPark Limited",
+                "award": "Outstanding SME Financial Platform"
+            },
+            {
+                "name": "Reap Technologies Limited",
+                "award": "Outstanding Online Credit Card Payment Platform"
+            }
+        ],
+        "retailsupply": [
+            {
+                "name": "Alipay Payment Services (HK) Limited",
+                "award": "Outstanding Innovative Technology Payment Service"
+            },
+            {
+                "name": "Appcider Limited",
+                "award": "Outstanding Cloud-based Retail and Supply Chain Management Integration Solution"
+            },
+            {
+                "name": "InReality Limited",
+                "award": "Outstanding Retail Analytics Solution"
+            },
+            {
+                "name": "Joint Electronic Teller Services Limited",
+                "award": "Outstanding Cross Industries Innovative Platform"
+            }
+        ],
+        "fxpayment": [
+            {
+                "name": "Midpoint",
+                "award": "Outstanding Online FX Trading Platform"
+            },
+            {
+                "name": "YBEX Limited",
+                "award": "Outstanding FX Comparison Online Platform"
+            }
+        ],
+        "ai": [
+            {
+                "name": "BlueFireAI Limited",
+                "award": "Outstanding Artificial Intelligence (AI) Text Analytics Solution"
+            },
+            {
+                "name": "Clare.AI",
+                "award": "Outstanding Artificial Intelligent (AI) (Customer Experience) Messaging Platform"
+            },
+            {
+                "name": "Find Solution Ai Limited",
+                "award": "Outstanding Customer Experiences Artificial Intelligence (AI) and Analytics Solution"
+            },
+            {
+                "name": "HKT Enterprise Solutions",
+                "award": "Outstanding Intelligent Customer Engagement Solution"
+            },
+            {
+                "name": "Investbot International Limited",
+                "award": "Outstanding Artificial Intelligence (AI) Investment Strategy Analytics Platform"
+            },
+            {
+                "name": "Kami Intelligence Limited",
+                "award": "Outstanding Artificial Intelligence (AI) Chatbot Conversational Solution"
+            }
+        ],
+        "cloud": [
+            {
+                "name": "HKT Enterprise Solutions",
+                "award": "Outstanding Managed Cloud Solution"
+            },
+            {
+                "name": "WiseSpot Company Limited",
+                "award": "Outstanding Cloud-based Unified Communications Solution"
+            }
+        ],
+        "bigdata": [
+            {
+                "name": "Bitex Limited",
+                "award": "Outstanding Big Data for Stock Marketing Investment Analysis Platform"
+            },
+            {
+                "name": "CASH Algo Finance Group Limited",
+                "award": "Outstanding Big Data Application and Analytics Solution"
+            }
+        ],
+        "blockchain": [
+            {
+                "name": "Alipay Payment Services (HK) Limited",
+                "award": "Outstanding Blockchain Cross-Border Digital Wallet Remittance Service"
+            },
+            {
+                "name": "Ping An Insurance (Group) Company of China, Ltd",
+                "award": "Outstanding Insurance Blockchain Solution"
+            },
+            {
+                "name": "MediConCen Limited",
+                "award": "Outstanding Medical Insurance Blockchain Mobile Application"
+            },
+            {
+                "name": "Assetonchain Technology Limited",
+                "award": "Outstanding Blockchain Diamonds Trading Platform"
+            }
+        ],
+        "fraud": [
+            {
+                "name": "Know Your Customer",
+                "award": "Outstanding Identity and Transaction Authentication Solution"
+            },
+            {
+                "name": "More Champ Limited (gini)",
+                "award": "Outstanding Integrated Personal Account Financial Management Application"
+            },
+            {
+                "name": "Advanced Security Technology and Research Laboratory Company Limited",
+                "award": "Outstanding Cyber Attacks Prevention Solution"
+            },
+            {
+                "name": "HKT Enterprise Solutions",
+                "award": "Outstanding Cybersecurity Solution (Business)"
+            },
+            {
+                "name": "Polydigi Limited",
+                "award": "Outstanding Identity Authentication Solution"
+            }
+        ],
+        "university": [
+            {
+                "name": "Mellow App Limited",
+                "award": ""
+            }
+        ]
+    },
+    "exposures_array": {
+        "title": "supplement (PDF)"
+    },
+    "highlights_array": {
+        "title": "highlights",
+        "tab1": "photo",
+        "tab2": "video",
+        "highlights_video": [
+            {
+                "id": "AdDCGF2weas",
+                "title": "Event Highlights"
+            },
+            {
+                "id": "RWZRyHPeNSc",
+                "title": "Message from Guest: Professor K.C. Chan, GBS, SBS, JP"
+            },
+            {
+                "id": "WHYNwQDfc3g",
+                "title": "Message from Co-organiser: Cyberport"
+            },
+            {
+                "id": "8-EtdJ1bOYA",
+                "title": "Message from Sponsor: Deloitte China"
+            },
+            {
+                "id": "hGOnk7sUCkE",
+                "title": "Message from Sponsor: KPMG"
+            },
+            {
+                "id": "W6AwLyqtF6E",
+                "title": "Message from Sponsor: PwC"
+            },
+            {
+                "id": "B5T6UU876WQ",
+                "title": "Message from Guest: Mr. Shek Kang Chuen"
+            },
+            {
+                "id": "TEmmyFo5BZM",
+                "title": "Interview: DBS"
+            },
+            {
+                "id": "wOIkg-zVfzo",
+                "title": "Interview: The Bank of East Asia"
+            },
+            {
+                "id": "JVE7w89fcmM",
+                "title": "Interview: WiseSpot Company Limited"
+            },
+            {
+                "id": "jqToomoy44g",
+                "title": "Interview: CMB Wing Lung Bank Limited"
+            },
+            {
+                "id": "2Y72miAiodo",
+                "title": "Interview: CASH Algo Finance Group Limited"
+            }
+        ]
+    },
+    "footer": {
+        "copyright": "Copyright © 2018 ET Net Limited. All Rights Reserved.",
+        "contact": "Contact Us",
+        "co_organizers": "Co-organiser and FinTech Partner",
+        "co_organizer": "Co-organiser",
+        "knowledge_parner": "Knowledge Parner",
+        "parner": "Partner",
+        "sponsor": "Sponsor",
+        "supportOrganization": "Supporting Organisations"
+    },
+    "contact": {
+        "title": "contact",
+        "enquiries": "Event & Awards Enquiries"
+    }
+}

@@ -1,0 +1,751 @@
+{
+    "header_nav":{
+        "awards":"奬項類別",
+        "judges":"評審",
+        "winners":"得奬名單",
+        "highlights":"花絮",
+        "exposures":"報導",
+        "past_events":"回顧",
+        "lang_opt":"EN"
+    },
+    "kv":{
+        "title": "可持續驅動綠色金融價值",
+        "green_power": "綠色能量",
+        "green_power_desc": "綠色金融能量收集中..."
+    },
+    "leadin":[
+        {
+            "text": "過去幾年，香港正在成為亞洲地區綠色科技和綠色金融的區域金融中心。2022年，香港成為亞洲最大的綠色和可持續債務發行者。為了實現這一目標，香港將首先建立綠色科技生態系統，並鼓勵跨部門合作，以作商業化研究和開發。這將加速綠色金融創新，幫助企業更快、更容易地獲得資金，並培養和吸引來自世界各地的人才。"
+        },
+        {
+            "text": "可持續正在驅動香港綠色金融領域的價值，並發揮著關鍵作用，促進更具環境意識和經濟可行性的未來。連續7年由經濟通舉辦的「2023年金融科技大獎」，目的是表彰最佳的金融科技實踐，藉此嘉許香港優秀的金融科技企業。"
+        },
+        {
+            "text": "此獎項憑著卓越的業務表現和持續增長，贏得在市場的認可，也對獲獎的金融科技公司在其業務發展上給予肯定。"
+        }
+    ],
+    "awards_array": {
+        "title": "獎項類別",
+        "special_categories": [
+            {
+                "award": "2023 金融科技大獎",
+                "img": "award_icon_Fintechofyear.png"
+            },
+            {
+                "award": "2023 金融科技市場策劃大獎",
+                "img": "award_icon_Marketing.png"
+            },
+            {
+                "award": "2023 金融科技大獎 - 初創企業",
+                "img": "award_icon_Start_Up.png"
+            }
+        ],
+        "award_categories": [
+            {
+                "ArtificialIntelligence": {
+                    "award": "人工智能",
+                    "img": "award_icon_Artificial_Intelligence.png",
+                    "id": "Artificial_Intelligence"
+                }
+            },
+            {
+                "BigData": {
+                    "award": "大數據",
+                    "img": "award_icon_Big_Data.png",
+                    "id": "Big_Data"
+                }
+            },
+            {
+                "blockchain": {
+                    "award": "區塊鏈方案",
+                    "img": "award_icon_Blockchain_Solutionpng.png",
+                    "id": ""
+                }
+            },
+            {
+                "cloud": {
+                    "award": "雲端",
+                    "img": "award_icon_Cloud.png",
+                    "id": ""
+                }
+            },
+            {
+                "ConsumerPaymentsInitiative": {
+                    "award": "消費者電子支付提案",
+                    "img": "award_icon_Consumer_Payments_Initiative.png",
+                    "id": "Consumer_Payments_Initiative"
+                }
+            },
+            {
+                "CorporateBanking": {
+                    "award": "企業銀行",
+                    "img": "award_icon_Corporate_Banking.png",
+                    "id": "Corporate_Banking"
+                }
+            },
+            {
+                "CorporatePaymentsInitiative": {
+                    "award": "企業電子支付提案",
+                    "img": "award_icon_Corporate_Payments_Initiative.png",
+                    "id": "Corporate_Payments_Initiative"
+                }
+            },
+            {
+                "Cybersecurity": {
+                    "award": "網絡安全",
+                    "img": "award_icon_Cybersecurity.png",
+                    "id": "Cybersecurity"
+                }
+            },
+            {
+                "esgprovider": {
+                    "award": "ESG 指數供應商",
+                    "img": "award_icon_ESG_Index_Provider.png",
+                    "id": ""
+                }
+            },
+            {
+                "esgproduct": {
+                    "award": "ESG 產品",
+                    "img": "award_icon_ESG_Product.png",
+                    "id": ""
+                }
+            },
+            {
+                "esgproject": {
+                    "award": "ESG 項目",
+                    "img": "award_icon_ESG_Project.png",
+                    "id": ""
+                }
+            },
+            {
+                "ESGSolution": {
+                    "award": "ESG 解決方案",
+                    "img": "award_icon_ESG_Solution.png",
+                    "id": "ESG_Solution"
+                }
+            },
+            {
+                "FX": {
+                    "award": "外滙 / 電子支付方案",
+                    "img": "award_icon_FX_Payment_Solution.png",
+                    "id": "FX_Payment_Solution"
+                }
+            },
+            {
+                "GBAService": {
+                    "award": "大灣區服務",
+                    "img": "award_icon_GBA_Service.png",
+                    "id": "GBA_Service"
+                }
+            },
+            {
+                "GreenFinanceDevelopment": {
+                    "award": "綠色金融發展",
+                    "img": "award_icon_Green_Finance_Development.png",
+                    "id": "Green_Finance_Development"
+                }
+            },
+            {
+                "Insurance": {
+                    "award": "保險",
+                    "img": "award_icon_Insurance.png",
+                    "id": "Insurance"
+                }
+            },
+            {
+                "Lending": {
+                    "award": "信貸",
+                    "img": "award_icon_Lending.png",
+                    "id": "Lending"
+                }
+            },
+            {
+                "mpftechnology": {
+                    "award": "強積金科技",
+                    "img": "award_icon_MPF_Technology.png",
+                    "id": ""
+                }
+            },
+            {
+                "ProTech": {
+                    "award": "地產科技",
+                    "img": "award_icon_ProTech.png",
+                    "id": "ProTech"
+                }
+            },
+            {
+                "RegTech": {
+                    "award": "監管科技",
+                    "img": "award_icon_RegTech.png",
+                    "id": "RegTech"
+                }
+            },
+            {
+                "research": {
+                    "award": "研發平台",
+                    "img": "award_icon_Research_Platform.png",
+                    "id": ""
+                }
+            },
+            {
+                "RetailBanking": {
+                    "award": "零售銀行",
+                    "img": "award_icon_Retail_Banking.png",
+                    "id": "Retail_Banking"
+                }
+            },
+            {
+                "RetailSupplyChainManagement": {
+                    "award": "零售 / 供應鏈管理",
+                    "img": "award_icon_Retail_Supply_Chain_Management.png",
+                    "id": "Retail_Supply_Chain_Management"
+                }
+            },
+            {
+                "TradingSystems": {
+                    "award": "交易系統",
+                    "img": "award_icon_Trading_Systems.png",
+                    "id": "Trading_Systems"
+                }
+            },
+            {
+                "VirtualBank": {
+                    "award": "虛擬銀行",
+                    "img": "award_icon_Virtual_Bank.png",
+                    "id": "Virtual_Bank"
+                }
+            },
+            {
+                "WealthInvestment": {
+                    "award": "財富投資與管理",
+                    "img": "award_icon_Wealth_Investment_and_Management.png",
+                    "id": "Wealth_Investment_and_Management"
+                }
+            },
+            {
+                "University": {
+                    "award": "大專院校",
+                    "img": "award_icon_Universities.png",
+                    "id": "University"
+                }
+            },
+            {
+                "ESGCert": {
+                    "award": "傑出ESG企業嘉許狀",
+                    "img": "award_icon_ESG_cert.png",
+                    "id": "ESG_cert"
+                }
+            }
+        ]
+    },
+    "judges_array": {
+        "title": "評審",
+        "intro": "2023金融科技大獎的評審委員會由金融科技及訊息通訊技術專業人士組成，成員來自相關行業和專業協會、公司、教育機構及政府機構。評委名單如下：",
+        "judges_criteria_title": "評審準則",
+        "judges_criteria": "獎項根據以下五個評審準則：",
+        "criteria1": "創新與創造力",
+        "criteria2": "功能性",
+        "criteria3": "市場化",
+        "criteria4": "影響",
+        "criteria5": "優勢",
+        "head_of_judge": "評審主席",
+        "head_of_judge_name": "鄧淑明博士, MH, JP",
+        "head_of_judge_title": "智慧城市聯盟,創辦人及榮譽會長",
+        "head_of_judge_description": "鄧淑明博士，MH，JP，香港大學計算機科學系榮譽教授，香港土生土長培育的資訊科技界企業家。鄧博士於九十年代創辦 Esri中國（香港）有限公司，專門推廣地理資訊系統(GIS)軟件和提供相關解決方案。鄧博士一直積極參與多個政府及民間組織，致力促進香港科技及社會事務發展。她的貢獻廣受認同並獲多項榮譽，包括：香港大學2009年理學院傑出校友、2006年香港十大傑出青年及香港美國商會2004年「最具影響力女性獎 ─ 年度傑出女青」等。",
+        "Panel_of_judge": "評審圑",
+        "judges": [
+            {
+                "name": "陳家豪教授",
+                "title": "雲端與流動運算專業人士協會 會長",
+                "img": "judge_emil.png"
+            },
+            {
+                "name": "陳思源工程師",
+                "title": "數碼港 首席公眾使命官",
+                "img": "judge_eric.png"
+            },
+            {
+                "name": "陳永誠先生，MH",
+                "title": "大數據治理公會 副主席",
+                "img": "judge_vincent_chan.png"
+            },
+            {
+                "name": "湛家揚博士",
+                "title": "數據素養協會 創會主席",
+                "img": "judge_tao.png"
+            },
+            {
+                "name": "張詩翺先生",
+                "title": "香港科技創新促進組 創辦人及會長",
+                "img": "judge_eddie.png"
+            },
+            {
+                "name": "邱達根先生",
+                "title": "香港特別行政區立法會議員 （科技創新界）",
+                "img": "judge_duncan.png"
+            },
+            {
+                "name": "莊太量教授，MH",
+                "title": " 香港中文大學經濟學系<br>副教授<br>劉佐德全球經濟及金融研究所<br>常務所長",
+                "img": "judge_terence_chong.png"
+            },
+            {
+                "name": "霍露明博士",
+                "title": "香港科技園公司 STP Platform 總監",
+                "img": "judge_crystal.png"
+            },
+            {
+                "name": "方保僑先生",
+                "title": "香港互動市務商會 創會及榮譽會長",
+                "img": "judge_francis.png"
+            },
+            {
+                "name": "顧向聖先生",
+                "title": "大灣區5G產業聯盟 金融行業委員會總監",
+                "img": "judge_peter.png"
+            },
+            {
+                "name": "林漢威先生",
+                "title": "互聯網專業協會 行政總裁",
+                "img": "judge_jacky.png"
+            },
+            {
+                "name": "李勁華先生",
+                "title": "香港無線科技商會 主席",
+                "img": "judge_keith.png"
+            },
+            {
+                "name": "邵志堯博士",
+                "title": "大灣區碳中和協會 理事",
+                "img": "judge_kenny.png"
+            },
+            {
+                "name": "蘇文傑教授",
+                "title": " 執業律師,AC Lawyers LLP 律師事務所創始合夥人,香港調解仲裁中心主席,財富承傳策劃協會主席,加州大學(商業法律及科技學院)院長",
+                "img": "judge_albert.png"
+            },
+            {
+                "name": "蘇增慰先生",
+                "title": "香港零售科技商會 會長",
+                "img": "judge_vincent_so.png"
+            },
+            {
+                "name": "蔡明都先生",
+                "title": "亞洲金融科技師學會 副主席",
+                "img": "judge_mingles.png"
+            },
+            {
+                "name": "溫浩源博士",
+                "title": "中匯安達會計師事務所有限公司 合夥人",
+                "img": "judge_terence_wan.png"
+            },
+            {
+                "name": "嚴滌宇先生",
+                "title": "數碼港 金融科技總監",
+                "img": "judge_victor.png"
+            },
+            {
+                "name": "姚兆明教授",
+                "title": "香港大學計算機科系教授  港大–渣打慈善基金 金融科技學院副總監",
+                "img": "judge_yiu.png"
+            }
+        ],
+        "legal_advisor": "法律顧問",
+        "legal_advisor_name": "謝遠明律師",
+        "legal_advisor_title": "董吳謝林律師事務所 \r\n 合夥人"
+    },
+    "winners_array": {
+        "title": "得獎名單",
+        "winner_dropbtn": "所有獎項類別 ∇",
+        "special_award": [
+            {
+                "Fintechofyear": {
+                    "award": "2023 金融科技大獎",
+                    "winners": "恒生銀行有限公司",
+                    "img": "award_icon_Fintechofyear.png",
+                    "id":"Fintechofyear"
+                }
+            },
+            {
+                "Marketing": {
+                    "award": "2023 金融科技市場策劃大獎",
+                    "winners": "渣打銀行(香港)有限公司",
+                    "img": "award_icon_Marketing.png",
+                    "id":"Marketing"
+                }
+            },
+            {
+                "StartUp": {
+                    "award": "2023 金融科技大獎 - 初創企業",
+                    "winners": "Propcap Technologies Ltd",
+                    "img": "award_icon_Start_Up.png",
+                    "id":"Start_Up"
+                }
+            }
+        ],
+        "winner_title": "2023金融科技大獎 - ",
+        "winners": [
+            {
+                "ArtificialIntelligence": [
+                    {
+                        "name": "智學資本有限公司",
+                        "title": "傑出人工智能全方位資產管理方案"
+                    },
+                    {
+                        "name": "中國銀河國際控股有限公司",
+                        "title": "傑出人工智能金融信息助手"
+                    },
+                    {
+                        "name": "大新銀行有限公司",
+                        "title": "傑出人工智能應用方案"
+                    },
+                    {
+                        "name": "方博科技有限公司",
+                        "title": "傑出人工智能投資策略方案"
+                    },
+                    {
+                        "name": "FundKernel Limited",
+                        "title": "傑出人工智能另類資產平台"
+                    },
+                    {
+                        "name": "Ola Protocol Limited",
+                        "title": "傑出演算法交易平台"
+                    }
+                ]
+            },
+            {
+                "BigData": [
+                    {
+                        "name": "德豪財務顧問有限公司",
+                        "title": "傑出大數據綜合分析工具"
+                    },
+                    {
+                        "name": "FundPark Limited",
+                        "title": "傑出數碼中小企數據分析金融科技平台"
+                    }
+                ]
+            },
+            {
+                "ConsumerPaymentsInitiative": [
+                    {
+                        "name": "Coded Tech Limited",
+                        "title": "傑出區塊鏈支付方案"
+                    }
+                ]
+            },
+            {
+                "CorporateBanking": [
+                    {
+                        "name": "中國銀行(香港)有限公司",
+                        "title": "傑出創新中小企銀行服務"
+                    },
+                    {
+                        "name": "中國建設銀行 (亞洲)",
+                        "title": "傑出大灣區企業綜合現金管理方案"
+                    },
+                    {
+                        "name": "恒生銀行有限公司",
+                        "title": "傑出商業銀行數碼體驗"
+                    }
+                ]
+            },
+            {
+                "CorporatePaymentsInitiative": [
+                    {
+                        "name": "聯款通",
+                        "title": "傑出全方位數碼支付平台"
+                    },
+                    {
+                        "name": "錢方好近科技金融有限公司",
+                        "title": "傑出全方位付款方案"
+                    }
+                ]
+            },
+            {
+                "Cybersecurity": [
+                    {
+                        "name": "HKT Enterprise Solutions",
+                        "title": "傑出網絡安全方案(商用)"
+                    }
+                ]
+            },
+            {
+                "ESGSolution": [
+                    {
+                        "name": "香港碳交易有限公司",
+                        "title": "傑出ESG數據管理報告方案"
+                    },
+                    {
+                        "name": "HKT Enterprise Solutions",
+                        "title": "傑出ESG解決方案"
+                    },
+                    {
+                        "name": "連進建築科技有限公司",
+                        "title": "傑出ESG智慧城市解決方案"
+                    },
+                    {
+                        "name": "斯博有限公司",
+                        "title": "傑出環保友善活動促成方案"
+                    }
+                ]
+            },
+            {
+                "FX": [
+                    {
+                        "name": "Red Dot Technology Limited",
+                        "title": "傑出加密支付解決方案"
+                    }
+                ]
+            },
+            {
+                "GBAService": [
+                    {
+                        "name": "HKT Enterprise Solutions",
+                        "title": "傑出跨境數碼方案"
+                    }
+                ]
+            },
+            {
+                "GreenFinanceDevelopment": [
+                    {
+                        "name": "Coded Solution Limited",
+                        "title": "傑出一站式積分及消費券管理平台"
+                    },
+                    {
+                        "name": "Propcap Technologies Ltd",
+                        "title": "傑出海外房產綠色按揭配對平台"
+                    }
+                ]
+            },
+            {
+                "Insurance": [
+                    {
+                        "name": "10Life",
+                        "title": "傑出保險評級及比較平台"
+                    },
+                    {
+                        "name": "Nanoinsure Technology (Hong Kong) Limited",
+                        "title": "傑出保險數碼策略解決方案"
+                    },
+                    {
+                        "name": "保誠保險有限公司",
+                        "title": "傑出數碼保險服務"
+                    }
+                ]
+            },
+            {
+                "Lending": [
+                    {
+                        "name": "FundPark Limited",
+                        "title": "傑出數碼中小企金融科技平台"
+                    },
+                    {
+                        "name": "K Cash Limited",
+                        "title": "傑出電子借貸系統解決方案"
+                    },
+                    {
+                        "name": "二叔公金融科技有限公司",
+                        "title": "傑出人工智能虛擬典當平台"
+                    },
+                    {
+                        "name": "WeLend Limited",
+                        "title": "傑出私人貸款平台"
+                    }
+                ]
+            },
+            {
+                "ProTech": [
+                    {
+                        "name": "貝殼控股有限公司",
+                        "title": "傑出房地產科技居住服務平台"
+                    }
+                ]
+            },
+            {
+                "RegTech": [
+                    {
+                        "name": "Lyods Engineering Limited",
+                        "title": "傑出合規科技數據分析方案"
+                    },
+                    {
+                        "name": "Lyodssoft Limited",
+                        "title": "傑出監管技術方案"
+                    },
+                    {
+                        "name": "歐科雲鏈控股有限公司",
+                        "title": "傑出數字資產合規科技方案"
+                    }
+                ]
+            },
+            {
+                "RetailBanking": [
+                    {
+                        "name": "恒生銀行有限公司",
+                        "title": "傑出數碼銀行服務"
+                    },
+                    {
+                        "name": "渣打銀行(香港)有限公司",
+                        "title": "傑出數碼存款方案"
+                    },
+                    {
+                        "name": "香港上海滙豐銀行有限公司",
+                        "title": "傑出全方位銀行理財服務"
+                    }
+                ]
+            },
+            {
+                "RetailSupplyChainManagement": [
+                    {
+                        "name": "栢圖娛樂有限公司",
+                        "title": "傑出網上售票服務平台"
+                    },
+                    {
+                        "name": "建華集團",
+                        "title": "傑出數碼化零售體驗"
+                    }
+                ]
+            },
+            {
+                "TradingSystems": [
+                    {
+                        "name": "樂天證券金業香港有限公司",
+                        "title": "傑出金銀交易服務"
+                    },
+                    {
+                        "name": "微牛證券有限公司",
+                        "title": "傑出智能證券交易投資應用程式"
+                    }
+                ]
+            },
+            {
+                "VirtualBank": [
+                    {
+                        "name": "Mox Bank",
+                        "title": "傑出虛擬銀行個人服務"
+                    },
+                    {
+                        "name": "平安壹賬通銀行（香港）有限公司",
+                        "title": "傑出虛擬中小企銀行服務"
+                    },
+                    {
+                        "name": "WeLab Bank",
+                        "title": "傑出創新基金投資平台"
+                    }
+                ]
+            },
+            {
+                "WealthInvestment": [
+                    {
+                        "name": "銀聯金融有限公司",
+                        "title": "傑出全方位管理MPF戶口平台"
+                    },
+                    {
+                        "name": "中國銀河國際控股有限公司",
+                        "title": "傑出智能投資交易流動應用程式"
+                    },
+                    {
+                        "name": "中國建設銀行 (亞洲)",
+                        "title": "傑出粵港澳大灣區跨境金融服務方案"
+                    },
+                    {
+                        "name": "恒生銀行有限公司",
+                        "title": "傑出數碼財富管理工具"
+                    },
+                    {
+                        "name": "保富匙有限公司",
+                        "title": "傑出保險團隊管理及數據分析平台"
+                    },
+                    {
+                        "name": "渣打銀行(香港)有限公司",
+                        "title": "傑出個人投資分析服務"
+                    },
+                    {
+                        "name": "微牛證券有限公司",
+                        "title": "傑出智能金融科技投資平台"
+                    }
+                ]
+            },
+            {
+                "University": [
+                    {
+                        "name": "K-Quant",
+                        "title": "銀獎"
+                    },
+                    {
+                        "name": "PayPilot Group Limited",
+                        "title": "金獎"
+                    }
+                ]
+            },
+            {
+                "ESGCert": [
+                    {
+                        "name": "銀聯金融有限公司",
+                        "title": ""
+                    },
+                    {
+                        "name": "富通保險有限公司",
+                        "title": ""
+                    },
+                    {
+                        "name": "連進建築科技有限公司",
+                        "title": ""
+                    },
+                    {
+                        "name": "保誠保險有限公司",
+                        "title": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "highlights": {
+        "title": "花絮",
+        "tab1": " 影片 ∇",
+        "tab2": " 相片 ∇",
+        "video1": " ⊳ 2023金融科技大獎活動花絮",
+        "video2": " ⊳ 協辦機構及金融科技夥伴訪問：香港數碼港",
+        "video3": " ⊳ 評審主席訪問：鄧淑明博士, MH, JP",
+        "video4": " ⊳ 大獎得主訪問：恒生銀行有限公司",
+        "video5": " ⊳ 得獎者訪問：聯款通",
+        "video6": " ⊳ 得獎者訪問：中國銀行(香港)有限公司",
+        "video7": " ⊳ 得獎者訪問：銀聯金融有限公司",
+        "video8": " ⊳ 得獎者訪問：中國銀河國際控股有限公司",
+        "video9": " ⊳ 得獎者訪問：大新銀行有限公司",
+        "video10": "⊳ 得獎者訪問：歐科雲鏈控股有限公司"
+    },
+    "exposures": {
+        "title": "報導",
+        "tab3": " 刊物 ∇",
+        "tab4": " 文章 ∇",
+        "publication1_title": "得獎者名單",
+        "publication1_details": " 刊登於《香港經濟日報》（2024年1月18日）",
+        "publication2_title": "得獎者名單",
+        "publication2_details": "刊登於《英文虎報》（2024年1月18日）",
+        "publication3_title": "活動花絮",
+        "publication3_details": "刊登於《香港經濟日報》（2024年1月25日）",
+        "articles": "查看文章"
+    },
+    "pastevent": {
+        "title": "回顧"
+    },
+    "footer": {
+        "copyright":" © 2023 經濟通有限公司 版權所有   不得轉載",
+        "contact_us":"活動查詢",
+        "share_to":"分享到",
+        "pages":" Pages",
+        "awards": "獎項類別",
+        "judges": "評審",
+        "winners": "得獎名單",
+        "highlights": "花絮",
+        "exposures": "報導",
+        "past_events": "回顧",
+        "lang_opt": "EN"
+    },
+    "announcement": {
+        "title":"得獎名單公布",
+        "result": "查看結果",
+        "later": "稍後繼續"
+    }
+}

@@ -1,0 +1,754 @@
+{
+    "header_nav": {
+        "awards": "Awards",
+        "judges": "Judges",
+        "winners": "Winners",
+        "highlights": "Highlights",
+        "exposures": "Exposures",
+        "past_events": "Past Events",
+        "lang_opt": "ZH"
+    },
+    "kv": {
+        "title": "Sustainability Drives Value in Green Finance",
+        "green_power": "Green Power",
+        "green_power_desc": "Green Power Harvesting..."
+    },
+    "leadin": [
+        {
+            "text": "Over the past years, Hong Kong is emerging as a regional Finance hub for GreenTech and Green Finance. Hong Kong was also Asia's top issuer of green and sustainable debts in 2022. To achieve that, Hong Kong will start by building its green-technology ecosystem and encouraging cross-sector collaboration to commercialise research and development. This will ramp up innovations in green financing, help firms get funds faster and easier, and nurture and attract talent from around the world."
+        },
+        {
+            "text": "Sustainability is driving value in Hong Kong's green finance landscape, and the pivotal role that the city plays in fostering a more environmentally conscious and economically viable future."
+        },
+        {
+            "text": "The FinTech Awards 2023 (hereinafter “Award”), organised by ET Net for the 7th consecutive year, aimed at commending the best FinTech practices and recognising outstanding FinTech professionals from Hong Kong-based companies."
+        },
+        {
+            "text": "Our efforts in achieving excellent business performance and sustainable growth have earned widespread recognition in the market. This award is an acknowledgment of our commitment from the industries to maintain outstanding practices in all aspects of FinTech."
+        }
+    ],
+    "awards_array": {
+        "title": "Awards Categories",
+        "special_categories": [
+            {
+                "award": "FinTech of the Year 2023",
+                "img": "award_icon_Fintechofyear.png"
+            },
+            {
+                "award": "FinTech Marketing Campaign of the Year 2023",
+                "img": "award_icon_Marketing.png"
+            },
+            {
+                "award": "FinTech of the Year 2023 in Start-up",
+                "img": "award_icon_Start_Up.png"
+            }
+        ],
+        "award_categories": [
+            {
+                "ArtificialIntelligence": {
+                    "award": "Artificial Intelligence",
+                    "img": "award_icon_Artificial_Intelligence.png",
+                    "id": "Artificial_Intelligence"
+                }
+            },
+            {
+                "BigData": {
+                    "award": "Big Data",
+                    "img": "award_icon_Big_Data.png",
+                    "id": "Big_Data"
+                }
+            },
+            {
+                "blockchain": {
+                    "award": "Blockchain Solution",
+                    "img": "award_icon_Blockchain_Solutionpng.png",
+                    "id": ""
+                }
+            },
+            {
+                "cloud": {
+                    "award": "Cloud",
+                    "img": "award_icon_Cloud.png",
+                    "id": ""
+                }
+            },
+            {
+                "ConsumerPaymentsInitiative": {
+                    "award": "Consumer Payments Initiative",
+                    "img": "award_icon_Consumer_Payments_Initiative.png",
+                    "id": "Consumer_Payments_Initiative"
+                }
+            },
+            {
+                "CorporateBanking": {
+                    "award": "Corporate Banking",
+                    "img": "award_icon_Corporate_Banking.png",
+                    "id": "Corporate_Banking"
+                }
+            },
+            {
+                "CorporatePaymentsInitiative": {
+                    "award": "Corporate Payments Initiative",
+                    "img": "award_icon_Corporate_Payments_Initiative.png",
+                    "id": "Corporate_Payments_Initiative"
+                }
+            },
+            {
+                "Cybersecurity": {
+                    "award": "Cybersecurity / Anti-Fraud",
+                    "img": "award_icon_Cybersecurity.png",
+                    "id": "Cybersecurity"
+                }
+            },
+            {
+                "esgprovider": {
+                    "award": "ESG Index Provider",
+                    "img": "award_icon_ESG_Index_Provider.png",
+                    "id": ""
+                }
+            },
+            {
+                "esgproduct": {
+                    "award": "ESG Product",
+                    "img": "award_icon_ESG_Product.png",
+                    "id": ""
+                }
+            },
+            {
+                "esgproject": {
+                    "award": "ESG Project",
+                    "img": "award_icon_ESG_Project.png",
+                    "id": ""
+                }
+            },
+            {
+                "ESGSolution": {
+                    "award": "ESG Solution",
+                    "img": "award_icon_ESG_Solution.png",
+                    "id": "ESG_Solution"
+                }
+            },
+            {
+                "FX": {
+                    "award": "FX / Payment Solution",
+                    "img": "award_icon_FX_Payment_Solution.png",
+                    "id": "FX_Payment_Solution"
+                }
+            },
+            {
+                "GBAService": {
+                    "award": "GBA Service",
+                    "img": "award_icon_GBA_Service.png",
+                    "id": "GBA_Service"
+                }
+            },
+            {
+                "GreenFinanceDevelopment": {
+                    "award": "Green Finance Development",
+                    "img": "award_icon_Green_Finance_Development.png",
+                    "id": "Green_Finance_Development"
+                }
+            },
+            {
+                "Insurance": {
+                    "award": "Insurance",
+                    "img": "award_icon_Insurance.png",
+                    "id": "Insurance"
+                }
+            },
+            {
+                "Lending": {
+                    "award": "Lending",
+                    "img": "award_icon_Lending.png",
+                    "id": "Lending"
+                }
+            },
+            {
+                "mpftechnology": {
+                    "award": "MPF Technology",
+                    "img": "award_icon_MPF_Technology.png",
+                    "id": ""
+                }
+            },
+            {
+                "ProTech": {
+                    "award": "ProTech",
+                    "img": "award_icon_ProTech.png",
+                    "id": "ProTech"
+                }
+            },
+            {
+                "RegTech": {
+                    "award": "RegTech",
+                    "img": "award_icon_RegTech.png",
+                    "id": "RegTech"
+                }
+            },
+            {
+                "research": {
+                    "award": "Research Platform",
+                    "img": "award_icon_Research_Platform.png",
+                    "id": ""
+                }
+            },
+            {
+                "RetailBanking": {
+                    "award": "Retail Banking",
+                    "img": "award_icon_Retail_Banking.png",
+                    "id": "Retail_Banking"
+                }
+            },
+            {
+                "RetailSupplyChainManagement": {
+                    "award": "Retail / Supply Chain Management",
+                    "img": "award_icon_Retail_Supply_Chain_Management.png",
+                    "id": "Retail_Supply_Chain_Management"
+                }
+            },
+            {
+                "TradingSystems": {
+                    "award": "Trading Systems",
+                    "img": "award_icon_Trading_Systems.png",
+                    "id": "Trading_Systems"
+                }
+            },
+            {
+                "VirtualBank": {
+                    "award": "Virtual Bank",
+                    "img": "award_icon_Virtual_Bank.png",
+                    "id": "Virtual_Bank"
+                }
+            },
+            {
+                "WealthInvestment": {
+                    "award": "Wealth Investment and Management",
+                    "img": "award_icon_Wealth_Investment_and_Management.png",
+                    "id": "Wealth_Investment_and_Management"
+                }
+            },
+            {
+                "University": {
+                    "award": "University and College",
+                    "img": "award_icon_Universities.png",
+                    "id": "University"
+                }
+            },
+            {
+                "ESGCert": {
+                    "award": "Appreciation Certificate on ESG",
+                    "img": "award_icon_ESG_cert.png",
+                    "id": "ESG_cert"
+                }
+            }
+        ]
+    },
+    "judges_array": {
+        "title": "Judges",
+        "intro": "FinTech Awards 2023's Judging Panel consists of professionals of the FinTech and ICT industry, with members come from relevant industry and professional associations, companies, educational institutes,and government bodies.Judges are as below:",
+        "judges_criteria_title": "Judging Criteria",
+        "judges_criteria": "Judging is based on the following 5 factors:",
+        "criteria1": "Innovation and Creativity",
+        "criteria2": "Functionality",
+        "criteria3": "Marketability",
+        "criteria4": "Impact",
+        "criteria5": "Benefits",
+        "head_of_judge": "Head of Judge",
+        "head_of_judge_name": "Dr. Winnie Tang, MH, JP",
+        "head_of_judge_title": "Founder and Honorary President, Smart City Consortium",
+        "head_of_judge_description": "Dr. Winnie Tang, MH, JP, is an Honorary Professor in the Department of Computer Science at the University of Hong Kong. She is one of the locally-bred IT entrepreneurs of Hong Kong. In the 1990s, Dr. Tang founded Esri China (Hong Kong) Limited to develop and promote Geographic Information System (GIS) software and solutions. Over the years, Dr. Tang has been actively advocating the use of technology through her services in government and non-government organizations in Hong Kong. In recognition of Dr.Tang's outstanding contributions to society, she was recognised as one the Distinguished Alumni by the Faculty of Science of HKU in 2009 and as one of the Ten Outstanding Young Persons of the year by the Junior Chamber International Hong Kong (JCIHK) in 2006. Dr.Tang also received the Young Achiever of the Year in the Women of Influence Award presented by the American Chamber of Commerce in 2004.",
+        "Panel_of_judge": "Panel of Judges",
+        "judges": [
+            {
+                "name": "Prof. Emil Chan",
+                "title": "Founding Chairman, The Association of Cloud and Mobile Computing Professionals",
+                "img": "judge_emil.png"
+            },
+            {
+                "name": "Ir Eric Chan",
+                "title": "Chief Public Mission Officer,Cyberport",
+                "img": "judge_eric.png"
+            },
+            {
+                "name": "Mr. Vincent Chan, MH",
+                "title": "Vice-chairman, Institute of Big Data Governance",
+                "img": "judge_vincent_chan.png"
+            },
+            {
+                "name": "Dr. Toa Charm",
+                "title": "Founding Chairman, Data Literacy Association",
+                "img": "judge_tao.png"
+            },
+            {
+                "name": "Mr. Eddie Cheung",
+                "title": "Founder President, Hong Kong Technology Advancement Group",
+                "img": "judge_eddie.png"
+            },
+            {
+                "name": "Hon Duncan Chiu",
+                "title": "HKSAR Legislative Council Member (Technology and Innovation)",
+                "img": "judge_duncan.png"
+            },
+            {
+                "name": "Prof. Terence Chong, MH",
+                "title": " Associate Professor of Economics, The Chinese University of Hong Kong Executive Director,Lau Chor Tak Institute Global Economics and Finance",
+                "img": "judge_terence_chong.png"
+            },
+            {
+                "name": "Dr. Crystal Fok",
+                "title": " Head of STP Platform, Hong Kong Science Technology Parks Corporation",
+                "img": "judge_crystal.png"
+            },
+            {
+                "name": "Mr. Francis Fong",
+                "title": "Founding and Honorary Chairman,Hong Kong Association of Interactive Marketing",
+                "img": "judge_francis.png"
+            },
+            {
+                "name": "Mr. Peter Koo",
+                "title": "Director of Finance Committee,GBA 5G Industry Alliance",
+                "img": "judge_peter.png"
+            },
+            {
+                "name": "Mr. Jacky Lam",
+                "title": "Chief Executive Officer,Internet Professional Association",
+                "img": "judge_jacky.png"
+            },
+            {
+                "name": "Mr. Keith Li",
+                "title": " Chairman, Hong Kong Wireless Technology Industry Association",
+                "img": "judge_keith.png"
+            },
+            {
+                "name": "Dr. Kenny Siu",
+                "title": "Council Member of GBA Carbon Neutrality Association",
+                "img": "judge_kenny.png"
+            },
+            {
+                "name": "Prof. Albert So",
+                "title": " Practicing Solicitor of High Court of Hong Kong, Founding Partner of AC Lawyers LLP Chairman of Hong Kong Mediation and Arbitration Centre, Chairman of Wealth Succession Planning Association Dean of California University (School of Business Law Technology)",
+                "img": "judge_albert.png"
+            },
+            {
+                "name": "Mr. Vincent So",
+                "title": "Chairman, Hong Kong Retail Technology Industry Association",
+                "img": "judge_vincent_so.png"
+            },
+            {
+                "name": "Mr. Mingles Tsoi",
+                "title": " Vice Chairman, Institute of Financial Technologists of Asia",
+                "img": "judge_mingles.png"
+            },
+            {
+                "name": "Dr. Terence Wan",
+                "title": " Partner, Zhonghui Anda CPA Limited",
+                "img": "judge_terence_wan.png"
+            },
+            {
+                "name": "Mr. Victor Yim",
+                "title": "Head of FinTech,Cyberport",
+                "img": "judge_victor.png"
+            },
+            {
+                "name": "Prof. Yiu, Siu Ming",
+                "title": " Professor, Department of Computer Science,The University of Hong Kong Associate Director,HKU-SCF FinTech Academy",
+                "img": "judge_yiu.png"
+            }
+        ],
+        "legal_advisor": "Legal Advisor",
+        "legal_advisor_name": "Mr. Valent Tse",
+        "legal_advisor_title": "Partner, \n Messrs. Tung, Ng, Tse Lam, Solicitors (“TNTL”)"
+    },
+    "winners_array": {
+        "title": "Winners",
+        "winner_dropbtn": "ALL CATEGLORIES ∇",
+        "special_award": [
+            {
+                "Fintechofyear": {
+                    "award": "FinTech of the Year 2023",
+                    "winners": "Hang Seng Bank Limited",
+                    "img": "award_icon_Fintechofyear.png",
+                    "id": "Fintechofyear"
+                }
+            },
+            {
+                "Marketing": {
+                    "award": "FinTech Marketing Campaign of the Year 2023",
+                    "winners": "Standard Chartered Bank (Hong Kong) Limited",
+                    "img": "award_icon_Marketing.png",
+                    "id": "Marketing"
+                }
+            },
+            {
+                "StartUp": {
+                    "award": "FinTech of the Year 2023 in Start-up",
+                    "winners": "Propcap Technologies Ltd",
+                    "img": "award_icon_Start_Up.png",
+                    "id": "Start_Up"
+                }
+            }
+        ],
+        "winner_title": "FinTech Awards 2023 in ",
+        "winners": [
+            {
+                "ArtificialIntelligence": [
+                    {
+                        "name": "AutoML Capital Limited",
+                        "title": "Outstanding Intelligence (AI) in All-round Asset Management Solution"
+                    },
+                    {
+                        "name": "CGS International Holdings Limited",
+                        "title": "Outstanding Artificial Intelligence Financial Information Assistant"
+                    },
+                    {
+                        "name": "Dah Sing Bank, Limited",
+                        "title": "Outstanding Artificial Intelligence - Applied Solution"
+                    },
+                    {
+                        "name": "Finbot Limited",
+                        "title": "Outstanding Intelligence (AI) Platform in Alternative Investments"
+                    },
+                    {
+                        "name": "FundKernel Limited",
+                        "title": "Outstanding Intelligence (AI) Platform in Alternative Investments"
+                    },
+                    {
+                        "name": "Ola Protocol Limited",
+                        "title": "Outstanding Algorithmic Trading Platform"
+                    }
+                ]
+            },
+            {
+                "BigData": [
+                    {
+                        "name": "BDO Financial Services Limited",
+                        "title": "Outstanding Big Data Integrated Analytics Tool"
+                    },
+                    {
+                        "name": "FundPark Limited",
+                        "title": "Outstanding Data Analytics Fintech Platform for Digital SMEs"
+                    }
+                ]
+            },
+            {
+                "ConsumerPaymentsInitiative": [
+                    {
+                        "name": "Coded Tech Limited",
+                        "title": "Outstanding Blockchain in Payment Solution"
+                    }
+                ]
+            },
+            {
+                "CorporateBanking": [
+                    {
+                        "name": "Bank of China (Hong Kong) Limited",
+                        "title": "Outstanding Innovative SME Banking Services"
+                    },
+                    {
+                        "name": "China Construction Bank (Asia)",
+                        "title": "Outstanding Corporate Cash Management Solutions in GBA"
+                    },
+                    {
+                        "name": "Hang Seng Bank Limited",
+                        "title": "Outstanding Commercial Banking Service for Digital Banking Experiences"
+                    }
+                ]
+            },
+            {
+                "CorporatePaymentsInitiative": [
+                    {
+                        "name": "AsiaPay",
+                        "title": "Outstanding All Rounded Digital Payment Platform"
+                    },
+                    {
+                        "name": "QFPay Haojin FinTech Limited",
+                        "title": "Outstanding All-round Payment Solution"
+                    }
+                ]
+            },
+            {
+                "Cybersecurity": [
+                    {
+                        "name": "HKT Enterprise Solutions",
+                        "title": "Outstanding Cybersecurity Solution (Business)"
+                    }
+                ]
+            },
+            {
+                "ESGSolution": [
+                    {
+                        "name": "Carbon Exchange (Hong Kong) Limited",
+                        "title": "Outstanding ESG Data Management Reporting Solution"
+                    },
+                    {
+                        "name": "HKT Enterprise Solutions",
+                        "title": "Outstanding ESG Solution"
+                    },
+                    {
+                        "name": "Llewellyn and Partners Company Limited",
+                        "title": "Outstanding ESG Solution for Smart Cities"
+                    },
+                    {
+                        "name": "WiseSpot Company Limited",
+                        "title": "Outstanding Eco-Friendly Event Enabling Solution"
+                    }
+                ]
+            },
+            {
+                "FX": [
+                    {
+                        "name": "Red Dot Technology Limited",
+                        "title": "Outstanding Crypto Payment Solution"
+                    }
+                ]
+            },
+            {
+                "GBAService": [
+                    {
+                        "name": "HKT Enterprise Solutions",
+                        "title": "Outstanding Cross Boundary Solution"
+                    }
+                ]
+            },
+            {
+                "GreenFinanceDevelopment": [
+                    {
+                        "name": "Coded Solution Limited",
+                        "title": "Outstanding One Stop Loyalty & Voucher Management Platform"
+                    },
+                    {
+                        "name": "Propcap Technologies Ltd",
+                        "title": "Outstanding Overseas Property Green Mortgage Match-lending Platform"
+                    }
+                ]
+            },
+            {
+                "Insurance": [
+                    {
+                        "name": "10Life",
+                        "title": "Outstanding Insurance Rating and Comparison Platform"
+                    },
+                    {
+                        "name": "Nanoinsure Technology (Hong Kong) Limited",
+                        "title": "Outstanding Digital Insurance in Transformative Solutions"
+                    },
+                    {
+                        "name": "Prudential Hong Kong Limited",
+                        "title": "Outstanding Digital Insurance Services"
+                    }
+                ]
+            },
+            {
+                "Lending": [
+                    {
+                        "name": "FundPark Limited",
+                        "title": "Outstanding Digital SME Fintech Platform"
+                    },
+                    {
+                        "name": "K Cash Limited",
+                        "title": "Outstanding Digital Lending Solution"
+                    },
+                    {
+                        "name": "UNCLE2 FINTECH LIMITED",
+                        "title": "Outstanding Intelligence (AI) Platform in Pawn"
+                    },
+                    {
+                        "name": "WeLend Limited",
+                        "title": "Outstanding Personal Lending Platform"
+                    }
+                ]
+            },
+            {
+                "ProTech": [
+                    {
+                        "name": "KE Holdings Inc.",
+                        "title": "Outstanding ProTech in Residential Service Platform"
+                    }
+                ]
+            },
+            {
+                "RegTech": [
+                    {
+                        "name": "Lyods Engineering Limited",
+                        "title": "Outstanding RegTech Data Analytics Solution"
+                    },
+                    {
+                        "name": "Lyodssoft Limited",
+                        "title": "Outstanding Regulatory Technology Solution"
+                    },
+                    {
+                        "name": "OKG Technology Holdings Limited",
+                        "title": "Outstanding RegTech Solution in Digital Assets"
+                    }
+                ]
+            },
+            {
+                "RetailBanking": [
+                    {
+                        "name": "Hang Seng Bank Limited",
+                        "title": "Outstanding Digital Banking Service"
+                    },
+                    {
+                        "name": "Standard Chartered Bank (Hong Kong) Limited",
+                        "title": "Outstanding Digital Deposit Solution"
+                    },
+                    {
+                        "name": "The Hong Kong & Shanghai Banking Corporation Limited",
+                        "title": "Outstanding All Rounded Financial Management Banking Services"
+                    }
+                ]
+            },
+            {
+                "RetailSupplyChainManagement": [
+                    {
+                        "name": "Pato Entertainment",
+                        "title": "Outstanding Online Ticketing Service Platform"
+                    },
+                    {
+                        "name": "Uni-China Group",
+                        "title": "Outstanding Digital Retail Experience"
+                    }
+                ]
+            },
+            {
+                "TradingSystems": [
+                    {
+                        "name": "Rakuten Securities Bullion Hong Kong Limited",
+                        "title": "Outstanding Bullion Trading Service"
+                    },
+                    {
+                        "name": "Webull Securities Limited",
+                        "title": "Outstanding Intelligence Securities Trading Investment Mobile App"
+                    }
+                ]
+            },
+            {
+                "VirtualBank": [
+                    {
+                        "name": "Mox Bank",
+                        "title": "Outstanding Virtual Personal Banking Service"
+                    },
+                    {
+                        "name": "Ping An OneConnect Bank (Hong Kong) Limited",
+                        "title": "Outstanding Virtual SME Banking Services"
+                    },
+                    {
+                        "name": "WeLab Bank",
+                        "title": "Outstanding Innovative Funds Investment Platform"
+                    }
+                ]
+            },
+            {
+                "WealthInvestment": [
+                    {
+                        "name": "BCT Financial Limited (“BCTF”)",
+                        "title": "Outstanding All Rounded MPF Management Platform"
+                    },
+                    {
+                        "name": "CGS International Holdings Limited",
+                        "title": "Outstanding Intelligent Investment Trading Mobile App"
+                    },
+                    {
+                        "name": "China Construction Bank (Asia)",
+                        "title": "Outstanding GBA Cross Border Financial Services Solutions"
+                    },
+                    {
+                        "name": "Hang Seng Bank Limited",
+                        "title": "Outstanding Digital Wealth Management Tool"
+                    },
+                    {
+                        "name": "PortfoPlus Limited<",
+                        "title": "Outstanding Intelligent Insurance Agency Management and Analytics Platform"
+                    },
+                    {
+                        "name": "Standard Chartered Bank (Hong Kong) Limited",
+                        "title": "Outstanding Personal Investment Analysis Service"
+                    },
+                    {
+                        "name": "Webull Securities Limited",
+                        "title": "Outstanding Intelligence Financial Technology Investment Platform"
+                    }
+                ]
+            },
+            {
+                "University": [
+                    {
+                        "name": "K-Quant",
+                        "title": "Sliver"
+                    },
+                    {
+                        "name": "PayPilot Group Limited",
+                        "title": "Gold"
+                    }
+                ]
+            },
+            {
+                "ESGCert": [
+                    {
+                        "name": "BCT Financial Limited (“BCTF”)",
+                        "title": ""
+                    },
+                    {
+                        "name": "FTLife Insurance Company Limited",
+                        "title": ""
+                    },
+                    {
+                        "name": "Llewellyn and Partners Company Limited",
+                        "title": ""
+                    },
+                    {
+                        "name": "Prudential Hong Kong Limited",
+                        "title": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "highlights": {
+        "title": "Highlights",
+        "tab1": " VIDEOS ∇",
+        "tab2": " PHOTOS ∇",
+        "video1": " ⊳ FinTech Awards 2023 Event Highlights",
+        "video2": " ⊳ Message from Co-organiser & FinTech Partner: Hong Kong Cyberport",
+        "video3": " ⊳ Message from Head of Judge: Dr. Winnie Tang, MH, JP",
+        "video4": " ⊳ Grand Award Winner's Interview: Hang Seng Bank Limited",
+        "video5": " ⊳ Winner's Interview: AsiaPay",
+        "video6": " ⊳ Winner's Interview: Bank of China (Hong Kong) Limited",
+        "video7": " ⊳ Winner's Interview: BCT Financial Limited (“BCTF”)",
+        "video8": " ⊳ Winner's Interview: CGS International Holdings Limited",
+        "video9": " ⊳ Winner's Interview: Dah Sing Bank, Limited",
+        "video10": "⊳ Winner's Interview: OKG Technology Holdings Limited"
+    },
+    "exposures": {
+        "title": "Exposures",
+        "tab3": " PUBLICATION ∇",
+        "tab4": " ARTICLES ∇",
+        "publication1_title": "Result Announcement",
+        "publication1_details": " Published in Hong Kong Economic Times (HKET) Newspaper (18 Jan 2024)",
+        "publication2_title": "Result Announcement",
+        "publication2_details": "Published in The Standard Newspaper (18 Jan 2024)",
+        "publication3_title": "Event Highlights",
+        "publication3_details": "Published in Hong Kong Economic Times (HKET) Newspaper (25 Jan 2024)",
+        "articles": " View Articles"
+    },
+    "pastevent": {
+        "title": "Past Events"
+    },
+    "footer": {
+        "copyright": " Copyright © 2023 ET Net Limited.\n\n\nAll Rights Reserved.",
+        "contact_us": " Contact Us",
+        "share_to": " Share to",
+        "pages": " Pages",
+        "awards": "Awards",
+        "judges": "Judges",
+        "winners": "Winners",
+        "highlights": "Highlights",
+        "exposures": "Exposures",
+        "past_events": "Past Events",
+        "lang_opt": "ZH"
+    },
+    "announcement": {
+        "title": "Winners Announcement",
+        "result": "View Result",
+        "later": "Later"
+    }
+}

@@ -1,0 +1,547 @@
+{
+    "header_nav": {
+        "awards": "Awards",
+        "judges": "Judges",
+        "winners": "Winners",
+        "sponsors": "sponsors",
+        "highlights": "Highlights",
+        "exposures": "Exposures",
+        "past_events": "Past Events",
+        "lang_opt": "ZH"
+    },
+    "social": {
+        "fb": "Share to Facebook",
+        "linkedin": "Share to Linkdedin",
+        "ln": "Share to Line",
+        "whatsApp": "Share to WhatsApp",
+        "wb": "Share to Weibo"
+    },
+    "home": {
+        "title": "Turning Innovation into Reality",
+        "p1": "Without a doubt FinTech have an increasingly important role to play. Collaboration between financial institutions and FinTech looks to be the most fruitful approach – combining the industry know-how, resources and client base of financial institutions with the innovation and agility of FinTech. FinTech Awards 2019 recognises excellence and innovation in the use of IT in financial services in Hong Kong, and the people who make it happen.",
+        "notice1": "Important Dates",
+        "notice2": "17 Dec 2019",
+        "notice3": "Award Result Announcement",
+        "notice4": "17 Jan 2019",
+        "notice5": "Award Presentation Ceremony",
+        "event1": "Event Details",
+        "event2": "Award Presentation Ceremony ",
+        "event3": "17 Jan 2019",
+        "event4": "5:00 pm – 7:00 pm",
+        "event5": "The Grand Auditorium",
+        "event6": "HKEX Connect Hall",
+        "event7": "1/F, One and Two Exchange Square,",
+        "event8": "Central, Hong Kong"
+    },
+    "sponsors": {
+        "h1": "Knowledge Partner / Sponsors",
+        "p1": "The FinTech Awards 2019 provide our knowledge partner / sponsors with unique brand building opportunities among a wide network of leading businesses and individuals from across the financial technology sector.",
+        "p2": "As a knowledge partner / sponsor, your company will be associated with excellence and innovation, boosting its profile within the industry and positioning your brand as a thought leader in the space.",
+        "p3": "The knowledge partner / sponsor will present the trophy to winners. It is a great honor for the winners to receive the award from the prestigious industry leader.",
+        "p4": "To be our knowledge partner / sponsor of FinTech Awards 2019, our extensive marketing and public relations campaign assists us to generate interest in the Awards whilst promoting our knowledge partner / sponsors as the supportive industry players. The public and industry support of the Awards will provide various positive opportunities for knowledge partner / sponsors to be aligned with a wide range of commercial activities.",
+        "p5": "Press",
+        "p6": "Printed material and direct mail",
+        "p7": "Social media",
+        "p8": "Advertisements on outdoor and etc.",
+        "p9": "Knowledge Partner / Sponsors will find significant opportunities for exposure within:",
+        "p10": "Leading corporations and businesses",
+        "p11": "Industry players and associations",
+        "p12": "General public, through significant mass media exposure",
+        "parner": "Knowledge Partner",
+        "sponsors": "Sponsors"
+    },
+    "awards_title": "Awards",
+    "award_array": {
+        "finTechofyear": "FinTech of the Year 2019",
+        "marketing": "FinTech Marketing Campaign of the Year 2019",
+        "startup": "FinTech of the Year 2019 in Start-up",
+        "ai": "FinTech Awards 2019 in Artificial Intelligence",
+        "bigdata": "FinTech Awards 2019 in Big Data",
+        "blockchain": "FinTech Awards 2019 in Blockchain Solutions",
+        "cloud": "FinTech Awards 2019 in Cloud",
+        "consumerpayments": "FinTech Awards 2019 in Consumer Payments Initiative",
+        "corporate": "FinTech Awards 2019 in Corporate Banking",
+        "corporatepayments": "FinTech Awards 2019 in Corporate Payments Initiative",
+        "fraud": "FinTech Awards 2019 in Cybersecurity / Anti – Fraud",
+        "fxpayment": "FinTech Awards 2019 in FX / Payment Solutions",
+        "insurance": "FinTech Awards 2019 in Insurance",
+        "lending": "FinTech Awards 2019 in Lending",
+        "retail": "FinTech Awards 2019 in Retail Banking",
+        "retailsupply": "FinTech Awards 2019 in Retail and Supply Chain Management",
+        "tradingsystems": "FinTech Awards 2019 in Trading Systems",
+        "tradingsystemscrossborder": "FinTech Awards 2019 in Trading Systems (Cross-border)",
+        "wealth": "FinTech Awards 2019 in Wealth Investment and Management",
+        "university": "FinTech Awards 2019 in Universities"
+    },
+    "judges_array": {
+        "title": "judges",
+        "description": "FinTech Awards 2019’s Judging Panel consists of professionals of the FinTech and ICT industry, with members come from relevant industry and professional associations, companies, educational institutes, and government bodies. Confirmed judges are as below:",
+        "criteria": "Judging Criteria",
+        "head_of_judge": " Head of Judge",
+        "head_of_judge_name": "Dr. Winnie Tang, MH, JP",
+        "head_of_judge_title1": "Founder and Honorary President",
+        "head_of_judge_title2": "Smart City Consortium",
+        "panel_of_judges": "Panel of Judges",
+        "judges": [
+            {
+                "name": "The Honourable Charles Peter Mok, JP",
+                "title": "Legislative Councillor\nFunctional Constituency - Information Technology",
+                "img": "Charles-Peter-Mok.png"
+            },
+            {
+                "name": "Prof. Emil Chan",
+                "title": "The Founding Chairman of the Association of Cloud and Mobile Computing Professionals",
+                "img": "Emil-Chan.png"
+            },
+            {
+                "name": "Ir Eric Chan",
+                "title": "Chief Public Mission Officer\nCyberport",
+                "img": "Eric-Chan.png"
+            },
+            {
+                "name": "Mr. Francis Fong",
+                "title": "Founding and Honorary Chairman of\nHong Kong Association of Interactive Marketing",
+                "img": "Francis-Fong.png"
+            },
+            {
+                "name": "Mr. Gary Yeung, MH",
+                "title": "President\nSmart City Consortium",
+                "img": "Gary-Yeung.png"
+            },
+            {
+                "name": "Dr. Joseph Leung",
+                "title": "Lecturer\nProgramme Director (Executive Development)\nSPEED",
+                "img": "Joseph-Leung.png"
+            },
+            {
+                "name": "Mr. Joseph Yuen",
+                "title": "Chairman\nHong Kong Federation of E-Commerce",
+                "img": "Joseph-Yuen.png"
+            },
+            {
+                "name": "Mr. Kenneth Chau",
+                "title": "Honorary Chairman of Technology Incubation Network (HKSTP)",
+                "img": "Kenneth-Chau.png"
+            },
+            {
+                "name": "Mr. Peter Koo",
+                "title": "APAC Leader\nIT &amp; Specialised Assurance\nDeloitte",
+                "img": "Peter-Koo.png"
+            },
+            {
+                "name": "Ir Peter Yeung",
+                "title": "Chairman\nHong Kong United Youth Science and Technology Association",
+                "img": "Peter-Yeung.png"
+            },
+            {
+                "name": "Mr. Sam Hui",
+                "title": "Chairman\nThe Chamber of Hong Kong \nComputer Industry",
+                "img": "Sam-Hui.png"
+            },
+            {
+                "name": "Prof. Terence Chong",
+                "title": "Executive Director\nLau Chor Tak Institute of\nGlobal Economics and Finance\nAssociate Professor of Economics\nThe Chinese University of Hong Kong",
+                "img": "Terence-Chong.png"
+            },
+            {
+                "name": "Dr. Toa Charm",
+                "title": "Chairman\nOpenCertHub",
+                "img": "Toa-Charm.png"
+            },
+            {
+                "name": "Mr. Victor Cheng",
+                "title": "Vice President\nNorth Asia ComScore",
+                "img": "Victor-Cheng.png"
+            },
+            {
+                "name": "Mr. Vincent So",
+                "title": "Chairman\nHong Kong Retail Technology \nIndustry Association",
+                "img": "Vincent-So.png"
+            },
+            {
+                "name": "Mr. Warren Ng",
+                "title": "Chairman\nHong Kong Netrepreneurs Association",
+                "img": "Warren-Ng.png"
+            }
+        ],
+        "legal_advisor": "Legal Advisor",
+        "legal_advisor_name": "Mr. Valent Tse",
+        "legal_advisor_title": "Partner\n ,Messrs. Tung, Ng, Tse &#38; Lam, Solicitors (“TNTL”)"
+    },
+    "winners_title": "Winners",
+    "esgwinner": "FinTech Awards 2019 – Appreciation Certificate on Environmental, Social, and Governance (ESG)",
+    "winners": {
+        "finTechofyear": [
+            {
+                "name": "Quantifeed",
+                "award": ""
+            }
+        ],
+        "marketing": [
+            {
+                "name": "The Hongkong and Shanghai Banking Corporation Limited",
+                "award": ""
+            }
+        ],
+        "startup": [
+            {
+                "name": "Pecutus Technologies Limited",
+                "award": ""
+            }
+        ],
+        "retail": [
+            {
+                "name": "Bank of China (Hong Kong) Limited",
+                "award": "Outstanding Innovative Securities Mobile Service"
+            },
+            {
+                "name": "China Construction Bank (Asia)",
+                "award": "Outstanding Intelligent Personal Banking Services"
+            },
+            {
+                "name": "Dah Sing Bank, Limited",
+                "award": "Outstanding Intelligent Personal Financial Management Service"
+            },
+            {
+                "name": "DBS Bank (Hong Kong) Limited",
+                "award": "Outstanding Fully Virtual Wealth Management Account Opening Solution"
+            },
+            {
+                "name": "Hang Seng Bank Limited",
+                "award": "Outstanding Personalised Banking Mobile App"
+            },
+            {
+                "name": "The Bank of East Asia, Limited",
+                "award": "Outstanding Account Opening Mobile App"
+            }
+        ],
+        "corporate": [
+            {
+                "name": "The Hongkong and Shanghai Banking Corporation Limited",
+                "award": "Outstanding Commercial Banking Service"
+            }
+        ],
+        "insurance": [
+            {
+                "name": "BOC Group Life Assurance Company Limited",
+                "award": "Outstanding Life Insurance e-Application Platform"
+            },
+            {
+                "name": "CoverGo",
+                "award": "Outstanding B2B Insurance Integration Solution"
+            },
+            {
+                "name": "PortfoPlus Limited",
+                "award": "Outstanding Personal Insurance Management Platform"
+            },
+            {
+                "name": "Wesurance Limited",
+                "award": "Outstanding Intelligent One Stop Insurance Mobile App"
+            }
+        ],
+        "consumerpayments": [
+            {
+                "name": "HKT Payment Limited",
+                "award": "Outstanding O2O F&B Platform"
+            }
+        ],
+        "corporatepayments": [
+            {
+                "name": "AsiaPay",
+                "award": "Outstanding Commercial Online Payment Solution"
+            },
+            {
+                "name": "HKT Payment Limited",
+                "award": "Outstanding Building Management Mobile Platform"
+            },
+            {
+                "name": "Visa Inc.",
+                "award": "Outstanding Innovation in Cross-border B2B Payment"
+            }
+        ],
+        "wealth": [
+            {
+                "name": "China CITIC Bank International Limited",
+                "award": "Outstanding Intelligent Personal Investment Service"
+            },
+            {
+                "name": "China Construction Bank (Asia)",
+                "award": "Outstanding Cross-platform Investment Application Solution"
+            },
+            {
+                "name": "CONTRENDIAN Limited",
+                "award": "Outstanding Personal Investment Portfolio Analytics App"
+            },
+            {
+                "name": "Futu Securities International (Hong Kong) Limited",
+                "award": "Outstanding Financial Technology Investment Service"
+            },
+            {
+                "name": "ix Fintech Ltd",
+                "award": "Outstanding Crypto Index Platform"
+            },
+            {
+                "name": "MaiCapital Limited",
+                "award": "Outstanding Digital Asset Management Solution"
+            },
+            {
+                "name": "Prive Services Limited",
+                "award": "Outstanding Intelligent Asset Management Solutions"
+            },
+            {
+                "name": "Quantifeed",
+                "award": "Outstanding B2B Robo-advice Platform"
+            },
+            {
+                "name": "Toast Pay Limited",
+                "award": "Outstanding Intelligent Wealth Management Mobile Application"
+            }
+        ],
+        "lending": [
+            {
+                "name": "FundPark Limited",
+                "award": "Outstanding SME Online Financial Platform"
+            },
+            {
+                "name": "Millennials Mind Limited",
+                "award": "Outstanding Intelligent Personal Property & Mortgage Analytics Platform"
+            }
+        ],
+        "retailsupply": [
+            {
+                "name": "Aura Labs Limited",
+                "award": "Outstanding Digital Retail Integrated Solution"
+            },
+            {
+                "name": "FreightAmigo Services Limited",
+                "award": "Outstanding International Intelligent Logistic Solution"
+            },
+            {
+                "name": "The Bank of East Asia, Limited",
+                "award": "Outstanding Mobile API Solution"
+            },
+            {
+                "name": "WiseSpot Company Limited",
+                "award": "Outstanding Cross-industries Innovative Solution"
+            }
+        ],
+        "tradingsystems": [
+            {
+                "name": "Velotrade Management Limited",
+                "award": "Outstanding Online Invoice Trading Platform"
+            }
+        ],
+        "tradingsystemscrossborder": [
+            {
+                "name": "Universal Pocket (HK) Co Ltd",
+                "award": "Outstanding Cross-border Payment Application Solution"
+            }
+        ],
+        "fxpayment": [
+            {
+                "name": "Midpoint Hong Kong Limited",
+                "award": "Outstanding Online FX Trading Platform"
+            },
+            {
+                "name": "Pecutus Technologies Limited",
+                "award": "Outstanding Innovative FX Swapping Platform"
+            },
+            {
+                "name": "TranSwap Limited",
+                "award": "Outstanding SME Cross-border FX Platform"
+            }
+        ],
+        "ai": [
+            {
+                "name": "Apoidea Group",
+                "award": "Outstanding Artificial Intelligence Financial Analytics Solution"
+            },
+            {
+                "name": "AQUMON",
+                "award": "Outstanding Artificial Intelligence Investment Consultancy Platform"
+            },
+            {
+                "name": "HKT Enterprise Solutions",
+                "award": "Outstanding Intelligent Customer Engagement Solution"
+            },
+            {
+                "name": "Nova Credit Limited",
+                "award": "Outstanding Intelligent Risk Analytics (A.I.) Solution"
+            },
+            {
+                "name": "Wizpresso Limited",
+                "award": "Outstanding Alternative Data Platform"
+            }
+        ],
+        "cloud": [
+            {
+                "name": "HKT Enterprise Solutions",
+                "award": "Outstanding Managed Cloud Solution"
+            },
+            {
+                "name": "Huatai Financial Holdings Hong Kong Limited",
+                "award": "Outstanding Wealth Management Cloud Application Solution"
+            }
+        ],
+        "bigdata": [
+            {
+                "name": "China Construction Bank (Asia)",
+                "award": "Outstanding Big Data Application"
+            },
+            {
+                "name": "gini",
+                "award": "Outstanding Integrated Personal Account Financial Management Application"
+            },
+            {
+                "name": "Regtics Limited",
+                "award": "Outstanding Transaction Monitoring Big Data Solution"
+            },
+            {
+                "name": "SIMNECTZ Technology Services Limited",
+                "award": "Outstanding Cross-industries Big Data Integration Solution"
+            }
+        ],
+        "blockchain": [
+            {
+                "name": "Blockchain Solutions Limited",
+                "award": "Outstanding Blockchain Technology Development"
+            },
+            {
+                "name": "Buttonwood Protocol Limited",
+                "award": "Outstanding Blockchain Technology in Application and Transaction System Platform"
+            },
+            {
+                "name": "Standard Kepler Limited",
+                "award": "Outstanding Blockchain Technology as a Service Platform Solution"
+            },
+            {
+                "name": "SWAP Fintech Global Limited",
+                "award": "Outstanding Blockchain Technology in Financial Asset Management Solution"
+            },
+            {
+                "name": "Utimaco",
+                "award": "Outstanding Blockchain Technology in Digital Signature Certification Solution"
+            }
+        ],
+        "fraud": [
+            {
+                "name": "Earth Channel Limited",
+                "award": "Outstanding Security Monitoring (A.I.) Mobile Application"
+            },
+            {
+                "name": "Huatai Financial Holdings Hong Kong Limited",
+                "award": "Outstanding Wealth Management Cybersecurity Solution"
+            },
+            {
+                "name": "Know Your Customer",
+                "award": "Outstanding Identity and Transaction Management Solution"
+            },
+            {
+                "name": "NFC Touch Limited",
+                "award": "Outstanding Logistic Authentication Mobile App"
+            },
+            {
+                "name": "Polydigi Limited",
+                "award": "Outstanding Identity Two-factor Authentication Solution"
+            }
+        ],
+        "university": [
+            {
+                "name": "SIGMA Gamified Investment Bot for Millennials",
+                "award": "Gold"
+            },
+            {
+                "name": "ZOOMIN - Gamifying Green Consumption",
+                "award": "Silver"
+            }
+        ]
+    },
+    "exposures_array": {
+        "title": "publication",
+        "tab1": "publication",
+        "tab2": "articles",
+        "publication1_title": "Result Announcement",
+        "publication1_details": "Published in Hong Kong Economic Times (HKET) Newspaper (20 January 2020)",
+        "publication2_title": "Result Announcement",
+        "publication2_details": " Published in The Standard Newspaper (20 January 2020)",
+        "publication3_title": "Event Highlights",
+        "publication3_details": "Published in Hong Kong Economic Times (HKET) Newspaper (24 January 2020)"
+    },
+    "highlights_array": {
+        "title": "highlights",
+        "tab1": "photo",
+        "tab2": "video",
+        "highlights_video": [
+            {
+                "id": "iJ06fHq_-ZQ",
+                "title": "Event Highlight"
+            },
+            {
+                "id": "H9nTmTvqoes",
+                "title": "Message from Co-organiser: Hong Kong Cyberport"
+            },
+            {
+                "id": "g8a490L_miY",
+                "title": "Message from Co-organiser: Hong Kong Science and Technology Parks Corporation"
+            },
+            {
+                "id": "AP0Rkllti6E",
+                "title": "Message from Strategic Partner: Smart City Consortium"
+            },
+            {
+                "id": "jHqqIpdfgAA",
+                "title": "Message from Knowledge Partner: PwC"
+            },
+            {
+                "id": "6h6I_mFVtC8",
+                "title": "Message from Sponsor: Deloitte Touche Tohmatsu"
+            },
+            {
+                "id": "EFdqvyad3RE",
+                "title": "Message from Sponsor: EY"
+            },
+            {
+                "id": "rqv7AkxxrMo",
+                "title": "Message from Sponsor: KPMG"
+            },
+            {
+                "id": "3OXNTT8pnfU",
+                "title": "Message from Head of Judge: Dr. Winnie Tang, JP"
+            },
+            {
+                "id": "Lb7BuS_tF6s",
+                "title": "Message from Guest: The Honourable Charles Peter Mok, JP"
+            },
+            {
+                "id": "ya3o8DDWT3M",
+                "title": "Winner’s Interview: DBS Bank (Hong Kong) Limited"
+            },
+            {
+                "id": "j74IXVnMZmw",
+                "title": "Winner’s Interview: Pecutus Technologies Limited"
+            },
+            {
+                "id": "aX31Q2tyYc0",
+                "title": "Winner’s Interview: Quantifeed"
+            },
+            {
+                "id": "6GJ_XCxSKBQ",
+                "title": "Winner’s Interview: VISA Inc."
+            },
+            {
+                "id": "uaEhvw0sxBE",
+                "title": "Winner’s Interview: WiseSpot Company Limited"
+            }
+        ]
+    },
+    "footer": {
+        "copyright": "Copyright © 2019 ET Net Limited. All Rights Reserved.",
+        "contact": "Contact Us",
+        "co_organizers": "Co-organiser and FinTech Partner",
+        "co_organizer": "Co-organiser",
+        "knowledge_parner": "Knowledge Parner",
+        "parner": "Partner",
+        "sponsor": "Sponsor",
+        "supportOrganization": "Supporting Organisations"
+    }
+}

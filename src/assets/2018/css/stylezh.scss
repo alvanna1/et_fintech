@@ -1,0 +1,460 @@
+/* Scss Document */
+
+$white: #FFFFFF;
+$color-red: #DA2228;
+$menu-border: rgba(226, 208, 125, 1.0);
+$background-blue: #18005d;
+$background-light-blue: #211C6C;
+$background-deep-blue: #0E023D;
+$background-green-blue: #4800e9;
+$mobileMenuBg-deep-blue: rgba(24, 0, 93, 0.80);
+$bg-color: #18005d;
+$judgesFigureBg: rgba(255, 255, 255, 0.90);
+$dot-color: #4e5663;
+$dot-size: 3px;
+$dot-space: 100px;
+$fontweight: 700;
+$fontlight: 'FPTLight', Helvetica,Arial,'Microsoft JhengHei',sans-serif;
+$fontbold: 'FPTBold', Helvetica,Arial,'Microsoft JhengHei',sans-serif;
+$fontbook: 'FPTBook', Helvetica,Arial,'Microsoft JhengHei',sans-serif;
+$chinesefont: 'FPTLight',Helvetica,Arial,'Microsoft JhengHei',sans-serif;
+
+body {
+	* {
+		font-size: 18px;
+        font-family: $chinesefont;
+	}
+    h2 { 
+		font-family: $chinesefont;
+        font-weight: $fontweight;
+	}
+	p{
+		line-height: 1.7em;
+	}
+    ul {
+		&.line {
+			li {
+				&:before {
+					content: '';
+					display: block;
+					width: 10px;
+					height: 2px;
+					background: $white;
+					position: absolute;
+					top: 9px;
+					left: -26px;
+				}
+			}
+		}
+	}
+	&.chinese {
+		font-size: 18px;
+	}
+}
+.redlineExtendAfter{
+    &:after {
+					content: "";
+					display: block;
+					background: $color-red;
+					height: 4px;
+					width: 30px;
+					position: absolute;
+					top: -40px;
+					right: 0;
+					left: 0;
+					margin: 0 auto;
+				}
+}
+.redlineExtendLine{
+    .lang {
+				a {
+					&:after {
+						content: "";
+						display: none;
+					}
+				}
+			}
+}
+#pageAwards {
+	nav {
+		.menuitem {
+			a[href*="awards.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageJudges {
+	nav {
+		.menuitem {
+			a[href*="judges.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageSponsors {
+	nav {
+		.menuitem {
+			a[href*="sponsors.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageWinners {
+	nav {
+		.menuitem {
+			a[href*="winners.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageHighlights {
+	nav {
+		.menuitem {
+			a[href*="highlights.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageArchive {
+	nav {
+		.menuitem {
+			a[href*="archive.php"] {
+				@extend .redlineExtendAfter;
+			}
+			@extend .redlineExtendLine;
+		}
+	}
+}
+#pageContact {
+	nav {
+		.menuitem {
+			a[href*="contact.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+.navbar {
+	.container-fluid {
+		.navbar-header {
+			.menuitem {
+                top: 12px;
+				ul {
+					li {
+						&.english {
+							a {
+								font-size: 1em;
+							}
+						}
+						a {
+							display: block;
+							font-size: 1em;
+							text-align: center;
+							font-family: $fontbold;
+							color: $white;
+						}
+						&.lang {
+							padding: 0 10px 0 35px;
+							a {
+								span {
+									position: relative;
+									font-size: 1em;
+									&:before {
+										content: '';
+										display: block;
+										position: absolute;
+										top: -2px;
+										left: -31px;
+										background: url(../images/icon.png) no-repeat;
+										width: 26px;
+										height: 26px;
+										background-position: -243px 0;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+header {
+	.jumbotron {
+		.container {
+            &.leadin {
+				top: 40%;
+                .row{
+                    div{
+						bottom: -50vh;
+                    h1{
+                        letter-spacing: 10px;
+                        font-size: 55px;
+                        line-height: 95px;
+                        font-weight: $fontweight;
+                        font-family: $chinesefont;
+						span{
+							padding: 0px;
+						}
+                    }
+                }
+                }
+			}
+			.scroll_icon {
+				position: absolute;
+				z-index: 1;
+				bottom: 40px;
+				border-radius: 50px;
+				border: 4px $white solid;
+				width: 43px;
+				height: 66px;
+				&:before {
+					content: "";
+					position: relative;
+					z-index: 1;
+					background: $white;
+					display: block;
+					width: 8px;
+					height: 8px;
+					border-radius: 8px;
+					left: 13px;
+					top: 9px;
+					-webkit-animation: MouseScrollDot 1.5s ease infinite;
+					-moz-animation: MouseScrollDot 1.5s ease infinite;
+					animation: MouseScrollDot 1.5s ease infinite;
+				}
+				&:after {
+					content: " ";
+					text-transform: uppercase;
+					position: relative;
+					z-index: 1;
+					display: none;
+					width: 200px;
+					left: 52px;
+					top: 5px;
+				}
+                span {
+					content: "&#21521;&#19979;&#26597;&#30475;&#26356;&#22810;";
+					text-transform: uppercase;
+					position: relative;
+					z-index: 1;
+					display: block;
+					width: 200px;
+					left: 52px;
+					top: 8px;
+				}
+			}
+		}
+	}
+}
+section {
+	.body {
+        &.innerBody {
+			.content {
+                h2{
+                    margin: 42px 0 10px;
+                }
+                .contactName {
+					font-size: 1.0em;
+                    font-family: $chinesefont;
+				}
+				.contactNumber, .contactEmail {
+					a {
+						font-size: 1.2em;
+					}
+				}
+				.expandList {
+					padding: 0px;
+					>li {
+						a {
+                            font-weight: $fontweight;
+                            font-family: $chinesefont;
+							 &:before {
+							transition: all 200ms ease-in;
+							content: "";
+							display: block;
+							width: 0;
+							height: 0;
+							border-style: solid;
+							border-width: 8px 0 8px 12px;
+							border-color: transparent transparent transparent #ffffff;
+							position: absolute;
+							left: 1px;
+							top: 5px;
+						}
+						}
+                       
+					}
+				}
+				.winners {
+					ul {
+						li {
+							ul {
+								>li {
+									h3 {
+										font-weight: 600;
+										letter-spacing: 2px;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		h1 {
+			font-size: 3.611em;
+            font-weight: $fontweight;
+            font-family: $chinesefont;
+		}
+        .grid {
+			&.highlights {
+				.item {
+					a{
+					h3{
+						&:before{
+							content: " ";
+							border-width: 1px;
+							border-style: solid;
+							border-color: $white;
+							border-radius: 20px;
+							width: 18px;
+							height: 18px;
+							display: block;
+							position: absolute;
+							top: 1px;
+							left: -26px;
+						}
+						&:after{
+							content: " ";
+							width: 0;
+							height: 0;
+							border-style: solid;
+							border-width: 4px 0 4px 6.9px;
+							border-color: transparent transparent transparent $white;
+							position: absolute;
+							top: 6px;
+							left: -19px;
+						}
+					}
+					}
+				}
+			}
+			.item {
+				h3 {
+                    font-family: $chinesefont;
+					font-weight: $fontweight;
+					span {
+						font-weight: $fontweight;
+                        font-family: $chinesefont;
+                        margin: 5px 0 0;
+					}
+				}
+			}
+		}
+        aside {
+			&.judgesDetails {
+				h2 {
+					font-weight: $fontweight;
+                    font-family: $chinesefont;
+				}
+			}
+		}
+	}
+}
+#pageJudges {
+	section {
+		.body {
+			.grid {
+				.row {
+					min-height: 345px;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 1200px) {
+    body {
+		* {
+			font-size: 15px;
+		}
+	}
+    .navbar {
+		.container-fluid {
+			.navbar-header {
+				.menuitemMobile {
+					>.container {
+						ul {
+							li {
+								>a {
+									font-size: 1.556em;
+								}
+							}
+						}
+						footer {
+							.container {
+								.lang {
+									top: 11px;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+    header {
+		.jumbotron {
+			.container {
+				.scroll_icon {
+					position: fixed;
+					bottom: 40px;
+					border-radius: 20px;
+					border: 4px $white solid;
+					width: 30px;
+					height: 46px;
+					&:before {
+						content: "";
+						position: relative;
+						background: $white;
+						display: block;
+						width: 6px;
+						height: 6px;
+						border-radius: 5px;
+						left: 8px;
+						top: 9px;
+						-webkit-animation: MouseScrollDot 1.5s ease infinite;
+						-moz-animation: MouseScrollDot 1.5s ease infinite;
+						animation: MouseScrollDot 1.5s ease infinite;
+					}
+					&:after {
+						content: "";
+						display: none;
+					}
+                    span{
+                        display: none;
+                    }
+				}
+			}
+		}
+	}
+    footer {
+	.etnet {
+		p {
+        letter-spacing: -0.5px;
+		}
+	}
+}
+}

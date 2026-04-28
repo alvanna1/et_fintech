@@ -1,0 +1,617 @@
+{
+	"header_nav": {
+		"awards": "Awards",
+		"judges": "Judges",
+		"winners": "Winners",
+		"highlights": "Highlights",
+		"exposures": "Exposures",
+		"past_events": "Past Events",
+		"lang_opt": "ZH"
+	},
+	"leadin_title": "Innovating and Pioneering a Sustainable Digital Economy",
+	"leadin": [
+		{
+			"text": "FinTech is revolutionising traditional financial services by enhancing transparency and improving access to financial resources for underserved communities. From innovative platforms that facilitate sustainable investment to blockchain and AI technologies that ensure traceability in supply chains, the contributions of these pioneers are instrumental in driving the transition to a sustainable digital economy."
+		},
+		{
+			"text": "The FinTech Awards 2024 (hereinafter “Award”), organised by ET Net for the 8th consecutive year, stands as a testament to the city's unwavering commitment to fostering innovation and sustainability within the financial technology sector. As a global financial hub, Hong Kong is uniquely positioned to lead the charge in creating a sustainable digital economy, where technology and environmental responsibility go hand in hand."
+		},
+		{
+			"text": "“Innovating and Pioneering a Sustainable Digital Economy” emphasises the importance of recognising the efforts and contributions of industry leaders, startups, and innovators who are actively shaping a sustainable future through their groundbreaking FinTech solutions. The awards serve not only to celebrate technological advancements but also to highlight initiatives that prioritise sustainability, inclusivity, and ethical practices in finance."
+		}
+	],
+	"awards_array": {
+		"title": "Awards Categories",
+		"awards_categories": [
+			{
+				"award": "FinTech of the Year 2024",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "FinTech Marketing Campaign of the Year 2024",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "FinTech of the Year 2024 in Start-up",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Artificial Intelligence",
+				"img": "ai.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Blockchain Solution / Virtual Assets",
+				"img": "blockclain.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Consumer Payments",
+				"img": "consumer_payments.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Corporate Banking",
+				"img": "corporate_banking.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Corporate Payments",
+				"img": "corporate_payment.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Cybersecurity / Anti–Fraud",
+				"img": "cybersecurity.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Digital Bank",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in ESG Solution",
+				"img": "esg.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in FX / Payment Solution",
+				"img": "fx.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in GBA Service",
+				"img": "gba.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Green and Sustainable Finance Development",
+				"img": "green_finance.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Insurance",
+				"img": "Insurance.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Lending",
+				"img": "lending.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in MPF",
+				"img": "mpf.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in PropTech",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in RegTech",
+				"img": "regtech.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Retail / Supply Chain Management",
+				"img": "retail.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Retail Banking",
+				"img": "retail_banking.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Tertiary Education",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "FinTech  Awards 2024 in Trading Solution",
+				"img": "trading.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Use of Cloud",
+				"img": "cloud.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Use of Data",
+				"img": "data.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in WealthTech",
+				"img": "wealth.jpg"
+			},
+			{
+				"award": "FinTech Awards 2024 in Web3",
+				"img": "web3.jpg"
+			}
+		]
+	},
+	"judges_array": {
+		"title": "Judges",
+		"intro": "FinTech Awards 2024's Judging Panel consists of professionals of the FinTech and ICT industry, with members come from relevant industry and professional associations, companies, educational institutes, and government bodies.",
+		"judges_criteria_title": "Judging Criteria",
+		"judges_criteria": "Judging is based on the following 5 factors:",
+		"head_of_judge": "Head of Judge",
+		"head_of_judge_name": "Dr. Winnie Tang, MH, JP",
+		"head_of_judge_title": "Founder and Honorary President, Smart City Consortium",
+		"Panel_of_judge": "Panel of Judges",
+		"judges": [
+			{
+				"name": "Prof. Emil Chan",
+				"title": "Founding Chairman, The Association of Cloud and Mobile Computing Professionals",
+				"img": "emilchan.png"
+			},
+			{
+				"name": "Ir Eric Chan",
+				"title": "Chief Public Mission Officer,Cyberport",
+				"img": "ericchan.png"
+			},
+			{
+				"name": "Mr. Vincent Chan, MH",
+				"title": "Vice-chairman, Institute of Big Data Governance",
+				"img": "cincentchan.png"
+			},
+			{
+				"name": "Mr. Eddie Cheung",
+				"title": "Founder & President, Hong Kong Technology Advancement Group",
+				"img": "eddiecheung.png"
+			},
+			{
+				"name": "Hon Duncan Chiu",
+				"title": "HKSAR Legislative Council Member (Technology and Innovation)",
+				"img": "duncan.png"
+			},
+			{
+				"name": "Prof. Terence Chong, MH",
+				"title": "Executive Director, Lau Chor Tak Institute Global Economics and Finance\nAssociate Professor of Economics, The Chinese University of Hong Kong",
+				"img": "terence.png"
+			},
+			{
+				"name": "Ms. Ada Chow",
+				"title": " Senior Consultant, ET Net Limited",
+				"img": "ada.png"
+			},
+			{
+				"name": "Mr. Francis Fong",
+				"title": "Founding and Honorary Chairman, Hong Kong Association of Interactive Marketing",
+				"img": "francis.png"
+			},
+			{
+				"name": "Mr. Peter Koo",
+				"title": "Director of Finance Committee, GBA 5G Industry Alliance",
+				"img": "peter.png"
+			},
+			{
+				"name": "Mr. Martin Liu",
+				"title": "Assistant Director, AI and Data, Hong Kong Science and Technology Parks Corporation",
+				"img": "martin.png"
+			},
+			{
+				"name": "Prof. Albert So",
+				"title": "Practicing Solicitor of High Court of Hong Kong\nFounding Partner of AC Lawyers LLP\nChairman of Hong Kong Mediation and Arbitration Centre\nChairman of Wealth Succession Planning Association\nDean of California University (School of Business Law & Technology)",
+				"img": "albert.png"
+			},
+			{
+				"name": "Mr. Vincent So",
+				"title": "Honorary Chairman, Hong Kong Retail Technology Industry Association",
+				"img": "vincentso.png"
+			},
+			{
+				"name": "Mr. Mingles Tsoi",
+				"title": "Vice Chairman, Institute of Financial Technologists of Asia",
+				"img": "mngles.png"
+			},
+			{
+				"name": "Mr. Victor Yim",
+				"title": "Head of FinTech,Cyberport",
+				"img": "victor.png"
+			},
+			{
+				"name": "Prof. Yiu, Siu Ming",
+				"title": "Professor, Department of Computer Science, The University of Hong Kong\nAssociate Director, HKU-SCF FinTech Academy",
+				"img": "yiusiuming.png"
+			},
+			{
+				"name": "Mr. Valent Tse (Legal Advisor)",
+				"title": "Partner, Messrs. Tung, Ng, Tse & Lam, Solicitors (“TNTL”)",
+				"img": "valent.png"
+			}
+		]
+	},
+	"winners_title": "Winners",
+	"booklet_download": "DOWNLOAD BOOKLET",
+	"winners_array": {
+		"finTechofyear": {
+			"award_cat": "FinTech of the Year 2024",
+			"winners": [
+				{
+					"name": "China Construction Bank (Asia)",
+					"award": ""
+				}
+			]
+		},
+		"marketing": {
+			"award_cat": "FinTech Marketing Campaign of the Year 2024",
+			"winners": [
+				{
+					"name": "Prudential Hong Kong Limited",
+					"award": ""
+				}
+			]
+		},
+		"startup": {
+			"award_cat": "FinTech of the Year 2024 in Start-up",
+			"winners": [
+				{
+					"name": "Esign HK Holding Limited",
+					"award": ""
+				}
+			]
+		},
+		"innovations": {
+			"award_cat": "FinTech Digital Innovations in 2024",
+			"winners": [
+				{
+					"name": "Presented by Oracle NetSuite HashKey Group",
+					"award": ""
+				},
+				{
+					"name": "HashKey Group",
+					"award": ""
+				}
+			]
+		},
+		"ai": {
+			"award_cat": "Artificial Intelligence",
+			"winners": [
+				{
+					"award": "Outstanding AI Capital Market Analysis Solution",
+					"name": "Fintica AI Hong Kong Ltd"
+				},
+				{
+					"award": "Outstanding AI Finance and News Data Transform Platform",
+					"name": "Libertify APAC Limited"
+				},
+				{
+					"award": "Outstanding AI Algorithmic Trading Platform",
+					"name": "Quantphemes Innovation Lab Limited"
+				},
+				{
+					"award": "Outstanding AI Wealth Management App",
+					"name": "Zero Fintech Group Limited"
+				}
+			]
+		},
+		"blockchain": {
+			"award_cat": "Blockchain Solution / Virtual Assets",
+			"winners": [
+				{
+					"award": "Outstanding Digital Asset Custody and Tokenisation Solutions",
+					"name": "ABT Tech Limited"
+				},
+				{
+					"award": "Outstanding Blockchain and AI-powered Loyalty Reward Platform",
+					"name": "Coded Solution Limited"
+				},
+				{
+					"award": "Outstanding Decentralisation Fintech Solution",
+					"name": "RabbitX"
+				}
+			]
+		},
+		"consumerpayments": {
+			"award_cat": "Consumer Payments",
+			"winners": [
+				{
+					"award": "Outstanding All-rounded Digital Payment Platform",
+					"name": "AsiaPay"
+				}
+			]
+		},
+		"corporate": {
+			"award_cat": "Corporate Banking",
+			"winners": [
+				{
+					"award": "Outstanding Innovative SME Banking Services",
+					"name": "Bank of China (Hong Kong) Limited"
+				},
+				{
+					"award": "Outstanding Corporate Integrated Cash Management Solutions",
+					"name": "China Construction Bank (Asia)"
+				},
+				{
+					"award": "Outstanding Digital Solution for SMEs",
+					"name": "Hang Seng Bank Limited"
+				}
+			]
+		},
+		"corporatepayments": {
+			"award_cat": "Corporate Payments",
+			"winners": [
+				{
+					"award": "Outstanding All-in-One Corporate Payment Solution",
+					"name": "Payment Asia"
+				}
+			]
+		},
+		"cybersecurity": {
+			"award_cat": "Cybersecurity / Anti–Fraud",
+			"winners": [
+				{
+					"award": "Outstanding Comprehensive eSignature Technology Service",
+					"name": "Esign HK Holding Limited"
+				},
+				{
+					"award": "Outstanding Cybersecurity Solution for Digital Assets",
+					"name": "Thales"
+				}
+			]
+		},
+		"esg": {
+			"award_cat": "ESG Solution",
+			"winners": [
+				{
+					"award": "Outstanding Smart Energy Control Solution",
+					"name": "HKT Enterprise Solutions"
+				},
+				{
+					"award": "Outstanding Prospecting ESG Solution",
+					"name": "PortfoPlus Limited"
+				}
+			]
+		},
+		"fx": {
+			"award_cat": "FX / Payment Solution",
+			"winners": [
+				{
+					"award": "Outstanding Integrated Cash and Treasury Management Solution",
+					"name": "RIYUEZHINENG INTERNATIONAL LIMITED"
+				}
+			]
+		},
+		"gba": {
+			"award_cat": "GBA Service",
+			"winners": [
+				{
+					"award": "Outstanding GBA Cross Border Financial Services Solutions",
+					"name": "China Construction Bank (Asia)"
+				}
+			]
+		},
+		"insurance": {
+			"award_cat": "Insurance",
+			"winners": [
+				{
+					"award": "Outstanding AI Adoption in Insurance Service",
+					"name": "Prudential Hong Kong Limited"
+				}
+			]
+		},
+		"lending": {
+			"award_cat": "Lending",
+			"winners": [
+				{
+					"award": "Outstanding Digital SME Fintech Platform",
+					"name": "FundPark Limited"
+				}
+			]
+		},
+		"MPF": {
+			"award_cat": "MPF",
+			"winners": [
+				{
+					"award": "Outstanding MPF Investor Education",
+					"name": "BCT"
+				}
+			]
+		},
+		"regTech": {
+			"award_cat": "RegTech",
+			"winners": [
+				{
+					"award": "Outstanding AI-powered Compliance Robot Platform",
+					"name": "Lyods Engineering Ltd"
+				}
+			]
+		},
+		"retailsupplychain": {
+			"award_cat": "Retail / Supply Chain Management",
+			"winners": [
+				{
+					"award": "Outstanding One-stop Groceries Buying Platform",
+					"name": "Uni-China Group - Hong Kong Market Eshop"
+				},
+				{
+					"award": "Outstanding AI Service Robot Application Solutions",
+					"name": "Tobot Solution Limited"
+				}
+			]
+		},
+		"retailbanking": {
+			"award_cat": "Retail Banking",
+			"winners": [
+				{
+					"award": "Outstanding All-round Digital Banking App",
+					"name": "China CITIC Bank International Limited"
+				},
+				{
+					"award": "Outstanding Digital Banking Service",
+					"name": "Hang Seng Bank Limited"
+				}
+			]
+		},
+		"trading": {
+			"award_cat": "Trading Solution",
+			"winners": [
+				{
+					"award": "Outstanding One-stop Smart Trading App",
+					"name": "Eddid Financial Holdings Limited"
+				},
+				{
+					"award": "Outstanding Bullion Trading Service",
+					"name": "Rakuten Securities Bullion Hong Kong Limited"
+				},
+				{
+					"award": "Outstanding One-stop Stock Trading App",
+					"name": "Valuable Capital Limited"
+				}
+			]
+		},
+		"cloud": {
+			"award_cat": "Use of Cloud",
+			"winners": [
+				{
+					"award": "Outstanding Cloud-based Account and Audit Management Solution",
+					"name": "AMC SYNERGY LIMITED"
+				},
+				{
+					"award": "Outstanding AI-enabled Real-time Proprietary Risk Management Platform",
+					"name": "FundPark Limited"
+				},
+				{
+					"award": "Outstanding AI Agent in Payment Application",
+					"name": "PayPilot Group Limited"
+				}
+			]
+		},
+		"wealth": {
+			"award_cat": "WealthTech",
+			"winners": [
+				{
+					"award": "Outstanding Personalised Wealth Management Mobile App",
+					"name": "CMB Wing Lung Bank Limited"
+				},
+				{
+					"award": "Outstanding One-stop Trust Platform",
+					"name": "FGA Trust"
+				},
+				{
+					"award": "Outstanding One-stop ToB Wealth Management Platform",
+					"name": "Finloop Finance Technology Holding Limited"
+				}
+			]
+		},
+		"web3": {
+			"award_cat": "Web3",
+			"winners": [
+				{
+					"award": "Outstanding Web3 Corporate DAO Solution",
+					"name": "Coded Technology Limited"
+				}
+			]
+		}
+	},
+	"highlights": {
+		"title": "Highlights",
+		"tab1": "Videos",
+		"tab2": "Gallery",
+		"videos": [
+			{
+				"url": "https://www.youtube.com/embed/RR5lRu2xp0w?si=Zs1-lnpN0ENE_1m-",
+				"title": "FinTech Awards 2024 Event Highlights"
+			},
+			{
+				"url": "https://www.youtube.com/embed/n17aRzYxUms?si=RbPjJEYyg_LeYqKV",
+				"title": "Message from Co-organiser: Hong Kong Science and Technology Parks Corporation"
+			},
+			{
+				"url": "https://www.youtube.com/embed/OtpPCl2Qv0I?si=JazVDrQ6CYZkgHzC",
+				"title": "Message from Head of Judge: Dr. Winnie Tang, MH, JP"
+			},
+			{
+				"url": "https://www.youtube.com/embed/IN6JYARP2VE?si=3zMrA55Y-e1UyPsE",
+				"title": "Grand Award Winner's Interview: China Construction Bank (Asia)"
+			},
+			{
+				"url": "https://www.youtube.com/embed/Bw89Yc23LJk?si=GN6gYriCObqjB0WT",
+				"title": "Grand Award Winner's Interview: Esign HK Holding Limited"
+			},
+			{
+				"url": "https://www.youtube.com/embed/mjlKJc1YTvY?si=W29VXZUz9o7kLwPE",
+				"title": "Winner's Interview: AsiaPay"
+			},
+			{
+				"url": "https://www.youtube.com/embed/wAm5A6ivI9o?si=CWdZJzYu4mk9T51I",
+				"title": "Winner's Interview: Bank of China (Hong Kong) Limited"
+			},
+			{
+				"url": "https://www.youtube.com/embed/wY4OWCFW9z8?si=cyKK5gQYmyP9nqtA",
+				"title": "Winner's Interview: BCT"
+			},
+			{
+				"url": "https://www.youtube.com/embed/dDO2hJWxCeA?si=H7XH2KYJ2iscOapi",
+				"title": "Winner's Interview: China CITIC Bank International Limited"
+			},
+			{
+				"url": "https://www.youtube.com/embed/743W-f9yeSI?si=KGXVPotet1w1iBRs",
+				"title": "Winner's Interview: China Construction Bank (Asia)"
+			},
+			{
+				"url": "https://www.youtube.com/embed/jwvVgIRHpdA?si=IImyA6_ZqK8Ul4_2",
+				"title": "Winner's Interview: Quantphemes Innovation Lab Limited"
+			},
+			{
+				"url": "https://www.youtube.com/embed/pdrI3r39koE?si=n81lh_wnzGZGWd24",
+				"title": "Winner's Interview: Rakuten Securities Bullion Hong Kong Limited"
+			},
+			{
+				"url": "https://www.youtube.com/embed/zfSBFldtDqg?si=4YyjJ5EKmv_5wHmy",
+				"title": "Winner's Interview: Thales"
+			},
+			{
+				"url": "https://www.youtube.com/embed/jeLNnifA_Xo?si=PyA3lxPcV-sGLFee",
+				"title": "Winner's Interview: Zero Fintech Group Limited"
+			}
+		]
+	},
+	"exposures": {
+		"title": "Exposures",
+		"tab3": "Publications",
+		"tab4": "Articles",
+		"articles_button": "Articles \u276f",
+		"publications": [
+			{
+				"href": "https://fintech.etnet.com.hk/2024/images/publication/FA2024-Post-event-Highlight-Print-Ad_HKET_Page_1.pdf",
+				"image": "FA2024-Post-event-Highlight-Print-Ad_HKET_Page_1.jpg",
+				"title": "Event Highlights",
+				"details": "Published in Hong Kong Economic Times (HKET) Newspaper (21 Mar 2025)"
+			},
+			{
+				"href": "https://fintech.etnet.com.hk/2024/images/publication/FA2024-Result-Announcement-Print-AD-HKET.pdf",
+				"image": "FA2024-Result-Announcement-Print-AD-HKET.jpg",
+				"title": "Result Announcement",
+				"details": "Published in Hong Kong Economic Times (HKET) Newspaper (13 Mar 2025)"
+			},
+			{
+				"href": "https://fintech.etnet.com.hk/2024/images/publication/FA2024-Result-Announcement-Print-AD-The-Standard_v2.pdf",
+				"image": "FA2024-Result-Announcement-Print-AD-The-Standard_v2.jpg",
+				"title": "Result Announcement",
+				"details": "Published in The Standard Newspaper (13 Mar 2025)"
+			}
+		]
+	},
+	"footer": {
+		"organiser":"Organiser",
+		"co_organizers":"Co-organiser and FinTech Partner",
+        "co_organizer":"Co-organiser",
+        "parner":"Strategic Partner",
+        "sponsor":"Sponsor",
+        "supportOrganization":"Supporting Organisations",
+		"past_events":"Past Event",
+		"contact_us":"Contact Us",
+        "share_to":"Share To",
+		"copyright":" Copyright © ET Net Limited.   All Rights Reserved."
+    },
+    "announcement": {
+        "title":"得獎名單",
+        "result": "查看結果",
+        "later": "稍後繼續"
+    }
+}

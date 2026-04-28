@@ -1,0 +1,458 @@
+/* Scss Document */
+
+$white: #FFFFFF;
+$color-red: #DA2228;
+$background-blue: #061123;
+$background-deep-blue: #050B14;
+$mobileMenuBg-deep-blue: #000000;
+$bg-color: #061123;
+$dot-color: #4e5663;
+$dot-size: 2px;
+$dot-space: 150px;
+$fontlight: Helvetica,Arial,'Microsoft JhengHei',sans-serif;
+$fontbold: Helvetica,Arial,'Microsoft JhengHei',sans-serif;
+$fontweight: 700;
+$chinesefont: Helvetica,Arial,'Microsoft JhengHei',sans-serif;
+
+body {
+	* {
+		font-size: 18px;
+        font-family: $chinesefont;
+	}
+    h2 {
+		font-family: $chinesefont;
+        font-weight: $fontweight;
+	}
+    ul {
+		&.line {
+			li {
+				&:before {
+					content: '';
+					display: block;
+					width: 10px;
+					height: 2px;
+					background: $white;
+					position: absolute;
+					top: 9px;
+					left: -26px;
+				}
+			}
+		}
+	}
+	&.chinese {
+		font-size: 18px;
+	}
+}
+.redText{
+    color: $color-red;
+    &:after{
+        content: "";
+        background: $color-red;
+        height: 2px;
+        width: 100%;
+        display: block;
+        
+    }
+}
+.redlineExtendAfter{
+    &:after {
+					content: "";
+					display: block;
+					background: $color-red;
+					height: 4px;
+					width: 30px;
+					position: absolute;
+					top: -40px;
+					right: 0;
+					left: 0;
+					margin: 0 auto;
+				}
+}
+.redlineExtendLine{
+    .lang {
+				a {
+					&:after {
+						content: "";
+						display: none;
+					}
+				}
+			}
+}
+#pageAwards {
+	nav {
+		.menuitem {
+			a[href*="awards.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageJudges {
+	nav {
+		.menuitem {
+			a[href*="judges.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageSponsors {
+	nav {
+		.menuitem {
+			a[href*="sponsors.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageContact {
+	nav {
+		.menuitem {
+			a[href*="contact.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageWinners {
+	nav {
+		.menuitem {
+			a[href*="winners.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageHighlights {
+	nav {
+		.menuitem {
+			a[href*="highlights.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pageArchive {
+	nav {
+		.menuitem {
+			a[href*="archive.php"] {
+				@extend .redlineExtendAfter;
+			}
+            @extend .redlineExtendLine;
+		}
+	}
+}
+#pagehighlightsVideo {
+	aside {
+		li {
+			a[href*="highlightsVideo.php"] {
+				@extend .redText;
+			}
+		}
+	}
+}
+#pagehighlightsPhoto {
+	aside {
+		li {
+			a[href*="highlights.php"] {
+				@extend .redText;
+			}
+		}
+	}
+}
+.navbar {
+	.container-fluid {
+		.navbar-header {
+			.menuitem {
+                top: 12px;
+				ul {
+					li {
+                        width: 45px;
+						&.english {
+							a {
+								font-size: 1em;
+							}
+						}
+						a {
+							display: block;
+							font-size: 1em;
+							text-align: center;
+							font-family: $fontbold;
+							color: $white;
+						}
+                        &.callAction {
+							width: 132px;
+							&:before {
+								content: "";
+								display: block;
+								position: absolute;
+								z-index: 0;
+								top: 4px;
+								left: -5px;
+								width: 141px;
+								height: 48px;
+								border-radius: 31px;
+								filter: blur(10px);
+								background: linear-gradient(270deg, #da2228, #005aeb, #00cf95);
+								background-size: 400% 400%;
+								-webkit-animation: Btn-Gradient 20s ease infinite;
+								-moz-animation: Btn-Gradient 20s ease infinite;
+								animation: Btn-Gradient 20s ease infinite;
+							}
+						}
+						&.lang {
+							padding: 0 15px;
+							a {
+								&:before {
+									content: '';
+									display: block;
+									position: absolute;
+									top: -2px;
+									left: 13px;
+									background: url(../images/icon.png) no-repeat;
+									width: 26px;
+									height: 26px;
+									background-position: -243px 0
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+header {
+	.jumbotron {
+		.container {
+            &.leadin {
+				top: 35%;
+                .row{
+                    div{
+                    h1{
+                        letter-spacing: 10px;
+                        font-size: 3.889em;
+                        line-height: 95px;
+                        font-weight: $fontweight;
+                        font-family: $chinesefont;
+                    }
+                }
+                }
+			}
+			.scroll_icon {
+				position: absolute;
+				z-index: 1;
+				bottom: 40px;
+				border-radius: 50px;
+				border: 4px $white solid;
+				width: 43px;
+				height: 66px;
+				&:before {
+					content: "";
+					position: relative;
+					z-index: 1;
+					background: $white;
+					display: block;
+					width: 8px;
+					height: 8px;
+					border-radius: 8px;
+					left: 13px;
+					top: 9px;
+					-webkit-animation: MouseScrollDot 1.5s ease infinite;
+					-moz-animation: MouseScrollDot 1.5s ease infinite;
+					animation: MouseScrollDot 1.5s ease infinite;
+				}
+				&:after {
+					content: " ";
+					text-transform: uppercase;
+					position: relative;
+					z-index: 1;
+					display: none;
+					width: 200px;
+					left: 52px;
+					top: 5px;
+				}
+                span {
+					content: "&#21521;&#19979;&#26597;&#30475;&#26356;&#22810;";
+					text-transform: uppercase;
+					position: relative;
+					z-index: 1;
+					display: block;
+					width: 200px;
+					left: 52px;
+					top: 8px;
+				}
+			}
+		}
+	}
+}
+section {
+	.body {
+		&.highlightsInterview{
+			.grid{
+				.item{
+					figure{
+					}
+					figcaption{
+						font-size: 1em;
+					}
+				}
+			}
+		}
+        &.innerBody {
+			.content {
+                h2{
+                    margin: 42px 0 10px;
+                }
+                .contactName {
+					font-size: 1.0em;
+                    font-family: $chinesefont;
+				}
+				.contactNumber, .contactEmail {
+					a {
+						font-size: 1.0em;
+					}
+				}
+				.expandList {
+					padding: 0px;
+					>li {
+						a {
+                            font-weight: $fontweight;
+                            font-family: $chinesefont;
+						}
+                        &:before {
+							transition: all 200ms ease-in;
+							content: "";
+							display: block;
+							width: 0;
+							height: 0;
+							border-style: solid;
+							border-width: 8px 0 8px 12px;
+							border-color: transparent transparent transparent #ffffff;
+							position: absolute;
+							left: 1px;
+							top: 5px;
+						}
+					}
+				}
+			}
+		}
+		h1 {
+			font-size: 3.611em;
+            font-weight: $fontweight;
+            font-family: $chinesefont;
+		}
+        .grid {
+			.item {
+				h3 {
+                    font-family: $chinesefont;
+					font-weight: $fontweight;
+					span {
+						font-weight: $fontweight;
+                        font-family: $chinesefont;
+                        margin: 5px 0 0;
+					}
+				}
+			}
+		}
+        aside {
+			&.judgesDetails {
+				h2 {
+					font-weight: $fontweight;
+                    font-family: $chinesefont;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 1000px) {
+    body {
+		* {
+			font-size: 15px;
+		}
+	}
+    .navbar {
+		.container-fluid {
+			.navbar-header {
+				.menuitemMobile {
+					>.container {
+						ul {
+							li {
+								>a {
+									font-size: 1.556em;
+								}
+							}
+						}
+						footer {
+							.container {
+								.lang {
+									top: 11px;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+    header {
+		.jumbotron {
+			.container {
+				&.leadin {
+					.row {
+						div {
+							h1 {
+								font-size: 2.273em;
+								line-height: 55px;
+                                letter-spacing: 8px;
+							}
+						}
+					}
+				}
+				.scroll_icon {
+					position: fixed;
+					bottom: 40px;
+					border-radius: 20px;
+					border: 4px $white solid;
+					width: 30px;
+					height: 46px;
+					&:before {
+						content: "";
+						position: relative;
+						background: $white;
+						display: block;
+						width: 6px;
+						height: 6px;
+						border-radius: 5px;
+						left: 8px;
+						top: 9px;
+						-webkit-animation: MouseScrollDot 1.5s ease infinite;
+						-moz-animation: MouseScrollDot 1.5s ease infinite;
+						animation: MouseScrollDot 1.5s ease infinite;
+					}
+					&:after {
+						content: "";
+						display: none;
+					}
+                    span{
+                        display: none;
+                    }
+				}
+			}
+		}
+	}
+    footer {
+	.etnet {
+		p {
+        letter-spacing: -0.5px;
+		}
+	}
+}
+}

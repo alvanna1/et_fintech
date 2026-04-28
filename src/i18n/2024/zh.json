@@ -1,0 +1,617 @@
+{
+	"header_nav":{
+        "awards":"奬項類別",
+        "judges":"評審",
+        "winners":"得奬名單",
+        "highlights":"花絮",
+        "exposures":"報導",
+        "past_events":"回顧",
+        "lang_opt":"EN"
+    },
+	"leadin_title": "創新與開創可持續數字經濟",
+	"leadin": [
+		{
+			"text": "金融科技正通過增強透明度並改善對服務不足社區的金融資源獲取，徹底改變傳統金融服務。從促進可持續投資的創新平台，到確保供應鏈可追溯性的區塊鏈和人工智能技術，這些先驅者的貢獻在推動向可持續數字經濟轉型的過程中起到了關鍵作用。"
+		},
+		{
+			"text": "2024年金融科技大獎由ET Net連續第八年舉辦，彰顯了這座城市對金融科技領域創新與可持續發展的堅定承諾。作為全球金融中心，香港在引領創建可持續數字經濟方面具有獨特優勢，技術與環境責任在這裡相輔相成。"
+		},
+		{
+			"text": "“創新與開創可持續數字經濟”強調了行業領袖、初創企業和創新者在推動可持續未來方面的努力與貢獻，特別是通過創新的金融科技解決方案。這個獎項不僅旨在表揚技術進步，還重於展示那些在金融領域優先考慮可持續性、包容性和道德實踐的舉措。"
+		}
+	],
+	"awards_array": {
+		"title": "獎項類別",
+		"awards_categories": [
+			{
+				"award": "2024金融科技大獎",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "2024金融科技市場策劃大獎",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 - 初創企業",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 人工智能",
+				"img": "ai.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 區塊鏈方案 / 虛擬資產",
+				"img": "blockclain.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 消費者電子支付",
+				"img": "consumer_payments.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 企業銀行",
+				"img": "corporate_banking.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 企業電子支付",
+				"img": "corporate_payment.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 網絡安全 / 防詐欺 ",
+				"img": "cybersecurity.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 數字銀行",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – ESG 解決方案",
+				"img": "esg.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 外滙 / 電子支付方案",
+				"img": "fx.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 大灣區服務",
+				"img": "gba.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 綠色金融可持續發展",
+				"img": "green_finance.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 保險",
+				"img": "Insurance.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 信貸",
+				"img": "lending.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 強積金",
+				"img": "mpf.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 地產科技",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 監管科技",
+				"img": "regtech.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 零售 / 供應鏈管理",
+				"img": "retail.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 零售銀行",
+				"img": "retail_banking.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 高等教育",
+				"img": "grand.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 交易方案",
+				"img": "trading.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 雲端使用",
+				"img": "cloud.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 數據使用",
+				"img": "data.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – 財富科技",
+				"img": "wealth.jpg"
+			},
+			{
+				"award": "2024金融科技大獎 – Web3",
+				"img": "web3.jpg"
+			}
+		]
+	},
+	"judges_array": {
+		"title": "評審",
+		"intro": "2024金融科技大獎的評審委員會由金融科技及訊息通訊技術專業人士組成，成員來自相關行業和專業協會、公司、教育機構及政府機構。",
+		"judges_criteria_title": "評審準則",
+		"judges_criteria": "獎項根據以下五個評審準則：",
+		"head_of_judge": "評審主席",
+		"head_of_judge_name": "鄧淑明博士, MH, JP",
+		"head_of_judge_title": "智慧城市聯盟創辦人及榮譽會長",
+		"Panel_of_judge": "評審團",
+		"judges": [
+			{
+				"name": "陳家豪先生",
+				"title": "雲端與流動運算專業人士協會會長",
+				"img": "emilchan.png"
+			},
+			{
+				"name": "陳思源工程師",
+				"title": "數碼港首席公眾使命官",
+				"img": "ericchan.png"
+			},
+			{
+				"name": "陳永誠先生，MH",
+				"title": "大數據治理公會副主席",
+				"img": "cincentchan.png"
+			},
+			{
+				"name": "張詩翺先生",
+				"title": "香港科技創新促進組創辦人及會長",
+				"img": "eddiecheung.png"
+			},
+			{
+				"name": "邱達根議員",
+				"title": "香港特別行政區立法會議員（科技創新界）",
+				"img": "duncan.png"
+			},
+			{
+				"name": "莊太量教授，MH",
+				"title": "劉佐德全球經濟及金融研究所常務所長\n香港中文大學經濟學系副教授",
+				"img": "terence.png"
+			},
+			{
+				"name": "周欣怡小姐",
+				"title": " 經濟通有限公司高級顧問",
+				"img": "ada.png"
+			},
+			{
+				"name": "方保僑先生",
+				"title": "香港互動市務商會創會及榮譽會長",
+				"img": "francis.png"
+			},
+			{
+				"name": "顧向聖先生",
+				"title": "大灣區5G產業聯盟金融行業委員會總監",
+				"img": "peter.png"
+			},
+			{
+				"name": "廖永超先生",
+				"title": "香港科技園公司人工智能及數據副總監",
+				"img": "martin.png"
+			},
+			{
+				"name": "蘇文傑教授",
+				"title": "執業律師\nAC Lawyers LLP 律師事務所創始合夥人\n香港調解仲裁中心主席\n財富承傳策劃協會主席\n加州大學(商業法律及科技學院)院長",
+				"img": "albert.png"
+			},
+			{
+				"name": "蘇增慰先生",
+				"title": "香港零售科技商會榮譽會長",
+				"img": "vincentso.png"
+			},
+			{
+				"name": "蔡明都先生",
+				"title": "亞洲金融科技師學會副主席",
+				"img": "mngles.png"
+			},
+			{
+				"name": "嚴滌宇先生",
+				"title": "數碼港金融科技總監",
+				"img": "victor.png"
+			},
+			{
+				"name": "姚兆明教授",
+				"title": "香港大學計算機科系教授\n港大–渣打慈善基金金融科技學院副總監",
+				"img": "yiusiuming.png"
+			},
+			{
+				"name": "謝遠明律師（法律顧問）",
+				"title": "董吳謝林律師事務所合夥人",
+				"img": "valent.png"
+			}
+		]
+	},
+	"winners_title": "得獎名單",
+	"booklet_download": "下載場刊",
+	"winners_array": {
+		"finTechofyear": {
+			"award_cat": "2024金融科技大獎",
+			"winners": [
+				{
+					"name": "中國建設銀行 (亞洲)",
+					"award": ""
+				}
+			]
+		},
+		"marketing": {
+			"award_cat": "2024金融科技市場策劃大獎",
+			"winners": [
+				{
+					"name": "保誠保險有限公司",
+					"award": ""
+				}
+			]
+		},
+		"startup": {
+			"award_cat": "2024金融科技大獎 - 初創企業",
+			"winners": [
+				{
+					"name": "易簽寶（香港）有限公司",
+					"award": ""
+				}
+			]
+		},
+		"innovations": {
+			"award_cat": "2024金融科技數碼創新",
+			"winners": [
+				{
+					"name": "Oracle NetSuite 呈獻",
+					"award": ""
+				},
+				{
+					"name": "HashKey Group",
+					"award": ""
+				}
+			]
+		},
+		"ai": {
+			"award_cat": "人工智能",
+			"winners": [
+				{
+					"award": "傑出人工智能資本市場分析解決方案",
+					"name": "Fintica AI Hong Kong Ltd"
+				},
+				{
+					"award": "傑出人工智能金融及新聞數據轉化平台",
+					"name": "Libertify APAC Limited"
+				},
+				{
+					"award": "傑出人工智能算法交易平台",
+					"name": "Quantphemes Innovation Lab Limited"
+				},
+				{
+					"award": "傑出人工智能理財應用程式",
+					"name": "零在科技金融集團有限公司"
+				}
+			]
+		},
+		"blockchain": {
+			"award_cat": "區塊鏈方案 / 虛擬資產",
+			"winners": [
+				{
+					"award": "傑出數字資產託管及代幣化方案",
+					"name": "ABT Tech Limited"
+				},
+				{
+					"award": "傑出區塊鏈與人工智能積分獎勵平台",
+					"name": "Coded Solution Limited"
+				},
+				{
+					"award": "傑出去中心化金融科技方案",
+					"name": "RabbitX"
+				}
+			]
+		},
+		"consumerpayments": {
+			"award_cat": "消費者電子支付",
+			"winners": [
+				{
+					"award": "傑出全方位數碼支付平台",
+					"name": "聯款通"
+				}
+			]
+		},
+		"corporate": {
+			"award_cat": "企業銀行",
+			"winners": [
+				{
+					"award": "傑出創新中小企銀行服務",
+					"name": "中國銀行(香港)有限公司"
+				},
+				{
+					"award": "傑出企業綜合現金管理方案",
+					"name": "中國建設銀行 (亞洲)"
+				},
+				{
+					"award": "傑出中小企數碼方案",
+					"name": "恒生銀行有限公司"
+				}
+			]
+		},
+		"corporatepayments": {
+			"award_cat": "企業電子支付",
+			"winners": [
+				{
+					"award": "傑出一站式企業支付方案",
+					"name": "Payment Asia"
+				}
+			]
+		},
+		"cybersecurity": {
+			"award_cat": "網絡安全 / 防詐欺",
+			"winners": [
+				{
+					"award": "傑出全面電子簽名技術服務",
+					"name": "易簽寶（香港）有限公司"
+				},
+				{
+					"award": "傑出數位資產網絡安全方案",
+					"name": "Thales"
+				}
+			]
+		},
+		"esg": {
+			"award_cat": "ESG 解決方案",
+			"winners": [
+				{
+					"award": "傑出智慧能源管理解決方案",
+					"name": "香港電訊有限公司"
+				},
+				{
+					"award": "傑出潛在客戶ESG開發方案",
+					"name": "保富匙有限公司"
+				}
+			]
+		},
+		"fx": {
+			"award_cat": "外滙 / 電子支付方案",
+			"winners": [
+				{
+					"award": "傑出綜合財資管理方案",
+					"name": "日月智能國際科技有限公司"
+				}
+			]
+		},
+		"gba": {
+			"award_cat": "大灣區服務",
+			"winners": [
+				{
+					"award": "傑出粵港澳大灣區跨境金融服務方案",
+					"name": "中國建設銀行 (亞洲)"
+				}
+			]
+		},
+		"insurance": {
+			"award_cat": "保險",
+			"winners": [
+				{
+					"award": "傑出人工智能應用保險服務",
+					"name": "保誠保險有限公司"
+				}
+			]
+		},
+		"lending": {
+			"award_cat": "信貸",
+			"winners": [
+				{
+					"award": "傑出數碼中小企金融科技平台",
+					"name": "豐泊國際"
+				}
+			]
+		},
+		"MPF": {
+			"award_cat": "強積金",
+			"winners": [
+				{
+					"award": "傑出強積金投資教育",
+					"name": "BCT"
+				}
+			]
+		},
+		"regTech": {
+			"award_cat": "監管科技",
+			"winners": [
+				{
+					"award": "傑出人工智能合規機械人平台",
+					"name": "萊斯工程有限公司"
+				}
+			]
+		},
+		"retailsupplychain": {
+			"award_cat": "零售 / 供應鏈管理",
+			"winners": [
+				{
+					"award": "傑出一站式網上買餸平台",
+					"name": "建華集團 - 香港街市(網店)"
+				},
+				{
+					"award": "傑出人工智能服務機械人應用方案",
+					"name": "Tobot Solution Limited"
+				}
+			]
+		},
+		"retailbanking": {
+			"award_cat": "零售銀行",
+			"winners": [
+				{
+					"award": "傑出全方位數碼銀行應用程式",
+					"name": "中信銀行(國際)有限公司"
+				},
+				{
+					"award": "傑出數碼銀行服務",
+					"name": "恒生銀行有限公司"
+				}
+			]
+		},
+		"trading": {
+			"award_cat": "交易方案",
+			"winners": [
+				{
+					"award": "傑出一站式智能交易應用程式",
+					"name": "艾德金融控股有限公司"
+				},
+				{
+					"award": "傑出金銀交易服務",
+					"name": "樂天證券金業香港有限公司"
+				},
+				{
+					"award": "傑出一站式股票交易應用程式",
+					"name": "華盛証券"
+				}
+			]
+		},
+		"cloud": {
+			"award_cat": "雲端使用",
+			"winners": [
+				{
+					"award": "傑出雲端會計及審計管理方案",
+					"name": "昕奇智鏈有限公司"
+				},
+				{
+					"award": "傑出人工智能實時風險管理平台",
+					"name": "豐泊國際"
+				},
+				{
+					"award": "傑出智能付款代理應用",
+					"name": "付款導航集團"
+				}
+			]
+		},
+		"wealth": {
+			"award_cat": "財富科技",
+			"winners": [
+				{
+					"award": "傑出個性化財富管理手機應用程式",
+					"name": "招商永隆銀行有限公司"
+				},
+				{
+					"award": "傑出一站式信託平台",
+					"name": "FGA信托"
+				},
+				{
+					"award": "傑出一站式數智化財富管理平台",
+					"name": "星路金融科技控股有限公司"
+				}
+			]
+		},
+		"web3": {
+			"award_cat": "Web3",
+			"winners": [
+				{
+					"award": "傑出Web3企業DAO解決方案",
+					"name": "Coded Technology Limited"
+				}
+			]
+		}
+	},
+	"highlights": {
+		"title": "花絮",
+		"tab1": "影片",
+		"tab2": "相片",
+		"videos": [
+			{
+				"url": "https://www.youtube.com/embed/RR5lRu2xp0w?si=Zs1-lnpN0ENE_1m-",
+				"title": "2024金融科技大獎活動花絮"
+			},
+			{
+				"url": "https://www.youtube.com/embed/n17aRzYxUms?si=RbPjJEYyg_LeYqKV",
+				"title": "協辦機構訪問：香港科技園公司"
+			},
+			{
+				"url": "https://www.youtube.com/embed/OtpPCl2Qv0I?si=JazVDrQ6CYZkgHzC",
+				"title": "評審主席訪問：鄧淑明博士, MH, JP"
+			},
+			{
+				"url": "https://www.youtube.com/embed/IN6JYARP2VE?si=3zMrA55Y-e1UyPsE",
+				"title": "大獎得主訪問：中國建設銀行 (亞洲)"
+			},
+			{
+				"url": "https://www.youtube.com/embed/Bw89Yc23LJk?si=GN6gYriCObqjB0WT",
+				"title": "大獎得主訪問：易簽寶（香港）有限公司"
+			},
+			{
+				"url": "https://www.youtube.com/embed/mjlKJc1YTvY?si=W29VXZUz9o7kLwPE",
+				"title": "得獎者訪問：聯款通"
+			},
+			{
+				"url": "https://www.youtube.com/embed/wAm5A6ivI9o?si=CWdZJzYu4mk9T51I",
+				"title": "得獎者訪問：中國銀行(香港)有限公司"
+			},
+			{
+				"url": "https://www.youtube.com/embed/wY4OWCFW9z8?si=cyKK5gQYmyP9nqtA",
+				"title": "得獎者訪問：BCT"
+			},
+			{
+				"url": "https://www.youtube.com/embed/dDO2hJWxCeA?si=H7XH2KYJ2iscOapi",
+				"title": "得獎者訪問：中信銀行(國際)有限公司"
+			},
+			{
+				"url": "https://www.youtube.com/embed/743W-f9yeSI?si=KGXVPotet1w1iBRs",
+				"title": "得獎者訪問：中國建設銀行 (亞洲)"
+			},
+			{
+				"url": "https://www.youtube.com/embed/jwvVgIRHpdA?si=IImyA6_ZqK8Ul4_2",
+				"title": "得獎者訪問：Quantphemes Innovation Lab Limited"
+			},
+			{
+				"url": "https://www.youtube.com/embed/pdrI3r39koE?si=n81lh_wnzGZGWd24",
+				"title": "得獎者訪問：樂天證券金業香港有限公司"
+			},
+			{
+				"url": "https://www.youtube.com/embed/zfSBFldtDqg?si=4YyjJ5EKmv_5wHmy",
+				"title": "得獎者訪問：Thales"
+			},
+			{
+				"url": "https://www.youtube.com/embed/jeLNnifA_Xo?si=PyA3lxPcV-sGLFee",
+				"title": "得獎者訪問：零在科技金融集團有限公司"
+			}
+		]
+	},
+	"exposures": {
+		"title": "報導",
+		"tab3": "報章",
+		"tab4": "文章",
+		"articles_button": "文章 \u276f",
+		"publications": [
+			{
+				"href": "https://fintech.etnet.com.hk/2024/images/publication/FA2024-Post-event-Highlight-Print-Ad_HKET_Page_1.pdf",
+				"image": "FA2024-Post-event-Highlight-Print-Ad_HKET_Page_1.jpg",
+				"title": "活動花絮",
+				"details": "刊登於《香港經濟日報》（2025年3月21日）"
+			},
+			{
+				"href": "https://fintech.etnet.com.hk/2024/images/publication/FA2024-Result-Announcement-Print-AD-HKET.pdf",
+				"image": "FA2024-Result-Announcement-Print-AD-HKET.jpg",
+				"title": "得獎者名單",
+				"details": "刊登於《香港經濟日報》（2025年3月13日）"
+			},
+			{
+				"href": "https://fintech.etnet.com.hk/2024/images/publication/FA2024-Result-Announcement-Print-AD-The-Standard_v2.pdf",
+				"image": "FA2024-Result-Announcement-Print-AD-The-Standard_v2.jpg",
+				"title": "得獎者名單",
+				"details": "刊登於《英文虎報》（2025年3月13日）"
+			}
+		]
+	},
+	"footer": {
+		"organiser":"主辦機構",
+		"co_organizers":"協辦機構及金融科技夥伴",
+        "co_organizer":"協辦機構",
+        "parner":"策略夥伴",
+        "sponsor":"贊助機構",
+        "supportOrganization":"支持機構",
+		"past_events":"回顧",
+		"contact_us":"聯絡我們",
+        "share_to":"分享",
+		"copyright":"  © 2024 經濟通有限公司 版權所有   不得轉載"
+    },
+    "announcement": {
+        "title":"得獎名單",
+        "result": "查看結果",
+        "later": "稍後繼續"
+    }
+}
